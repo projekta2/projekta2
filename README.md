@@ -47,7 +47,7 @@ That background shapes everything I build: the obsession with detail, the biling
 ## Find me
 
 - 🐙 [github.com/projekta2](https://github.com/projekta2)
-- 💼 [linkedin.com/in/alexandre-iglesias](https://www.linkedin.com/in/alexandre-iglesias)
+- 💼 [linkedin.com/in/alexiglesias1](https://www.linkedin.com/in/alexiglesias1/)
 - 📧 hello@projekta2.com
 
 ---
