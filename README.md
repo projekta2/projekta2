@@ -1,6 +1,6 @@
 # Hey, I'm Alexandre Iglesias 👋
 
-**Graphic Designer & Art Director turned Chrome Extension Developer.**  
+**Graphic Designer & Art Director → Chrome Extension Developer**  
 I build browser tools that respect your time — designed with the same care I used to put into brand identities.
 
 ---
@@ -14,7 +14,7 @@ I'm a designer who learned to ship code. The result: extensions that actually lo
 
 | Extension | Description | Status |
 |-----------|-------------|--------|
-| 🟦 **[TabCost Pro](https://chrome.google.com/webstore/YOUR_LINK)** | Track the real cost of your inactive tabs. Bilingual EN/ES. | ✅ Live |
+| 🟦 **[TabCost Pro](https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID)** | Track the real cost of your inactive tabs. Bilingual (EN/ES). | ✅ Live |
 | ⬜ *Next project* | — | 🔜 Soon |
 
 ---
@@ -23,16 +23,17 @@ I'm a designer who learned to ship code. The result: extensions that actually lo
 
 > *Every minute a tab sits idle, your time bleeds quietly. TabCost makes it visible.*
 
-Tracks inactive browser tabs and converts that time into real opportunity cost based on your hourly rate. Built for freelancers, consultants, and anyone who bills by the hour.
+Tracks inactive browser tabs and converts that time into real opportunity cost based on your hourly rate.  
+Built for freelancers, consultants, and anyone who bills by the hour.
 
-**→ [chrome.google.com/webstore/YOUR_LINK](https://chrome.google.com/webstore/YOUR_LINK)**  
-**→ [Privacy Policy](https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md)** · **[Support](https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md)**
+🔗 **→ [Chrome Web Store](https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID)**  
+🔒 **[Privacy Policy](https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md)** · 💬 **[Support](https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md)**
 
 ---
 
 ## Background
 
-Before extensions, I spent years at **Projekta2 Creative Studio** building immersive web experiences at the intersection of code and design — the kind where you weren't sure if you were looking at a website or an installation.
+Before extensions, I spent years at **Projekta2 Creative Studio** building immersive web experiences at the intersection of code and design — the kind where you're not sure if you're looking at a website or an installation.
 
 That background shapes everything I build: the obsession with detail, the bilingual UX, the dark mode that actually works.
 
@@ -48,7 +49,7 @@ That background shapes everything I build: the obsession with detail, the biling
 
 - 🐙 [github.com/projekta2](https://github.com/projekta2)
 - 💼 [linkedin.com/in/alexiglesias1](https://www.linkedin.com/in/alexiglesias1/)
-- 📧 hello@projekta2.com
+- 📧 [hello@projekta2.com](mailto:hello@projekta2.com)
 
 ---
 
