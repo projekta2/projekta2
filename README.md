@@ -1,56 +1,100 @@
-# Hey, I'm Alexandre Iglesias 👋
+<!-- README.md con diseño mejorado -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alexandre+Iglesias;Graphic+Designer+→+Dev;Building+extensions+that+respect+your+time" alt="Typing SVG" />
+</p>
 
-**Graphic Designer & Art Director → Chrome Extension Developer**  
-I build browser tools that respect your time — designed with the same care I used to put into brand identities.
+<p align="center">
+  <img src="https://img.shields.io/badge/Graphic%20Designer-%20→%20Chrome%20Extension%20Dev-orange?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white" />
+</p>
+
+<br>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <a href="https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID">
+          <img src="https://img.shields.io/badge/TabCost%20Pro-Live-brightgreen?style=flat-square&logo=googlechrome" alt="TabCost Pro Live"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://chrome.google.com/webstore/detail/pr-focus-inbox/YOUR_EXTENSION_ID">
+          <img src="https://img.shields.io/badge/PR%20Focus%20Pro-Coming%20Soon-blue?style=flat-square&logo=github" alt="PR Focus Pro"/>
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-## What I make
+## ✨ Current projects
 
-Most dev tools are built by engineers who tolerate UI.  
-I'm a designer who learned to ship code. The result: extensions that actually look good and feel intentional.
-
-**Current focus → Chrome Extensions**
-
-| Extension | Description | Status |
-|-----------|-------------|--------|
-| 🟦 **[TabCost Pro](https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID)** | Track the real cost of your inactive tabs. Bilingual (EN/ES). | ✅ Live |
-| ⬜ *Next project* | — | 🔜 Soon |
-
----
-
-## TabCost Pro
-
+### 🔷 [TabCost Pro](https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID)
 > *Every minute a tab sits idle, your time bleeds quietly. TabCost makes it visible.*
 
-Tracks inactive browser tabs and converts that time into real opportunity cost based on your hourly rate.  
-Built for freelancers, consultants, and anyone who bills by the hour.
+Tracks inactive browser tabs and converts idle time into real opportunity cost based on your hourly rate.  
+**Perfect for freelancers, consultants, and billable-hour professionals.**
 
-🔗 **→ [Chrome Web Store](https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID)**  
-🔒 **[Privacy Policy](https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md)** · 💬 **[Support](https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md)**
+- **Bilingual** (English / Spanish)
+- **Dark / Light themes**
+- **CSV export** and **auto-close** idle tabs
+
+<details>
+<summary>📋 Tech stack (TabCost)</summary>
+
+`Manifest V3` · `Chrome Storage API` · `Chart.js` · `i18n` · `Gumroad licensing`
+</details>
 
 ---
 
-## Background
+### 🔶 [PR Focus Inbox](https://chrome.google.com/webstore/detail/pr-focus-inbox/YOUR_EXTENSION_ID)
+> *Your GitHub PR inbox, supercharged by AI.*
+
+A Chrome extension that turns your GitHub pull request queue into an intelligent review hub.  
+**AI summaries, risk scoring, one‑click draft reviews, and multi‑account support.**
+
+- **AI provider agnostic** (OpenAI, Groq, Mistral, Ollama)
+- **Fully local** (BYOK – Bring Your Own Key)
+- **Freemium model** (Free core features / PRO $9 lifetime)
+
+<details>
+<summary>📋 Tech stack (PR Focus)</summary>
+
+`GraphQL` + `REST` · `IndexedDB` · `AI prompt engineering` · `Gumroad license validation`
+</details>
+
+---
+
+## 🧑‍🎨 Background
 
 Before extensions, I spent years at **Projekta2 Creative Studio** building immersive web experiences at the intersection of code and design — the kind where you're not sure if you're looking at a website or an installation.
 
-That background shapes everything I build: the obsession with detail, the bilingual UX, the dark mode that actually works.
+That background shapes everything I build: obsession with detail, bilingual UX, and dark mode that actually works.
 
 ---
 
-## Stack
+## 🛠️ Stack
 
-`HTML` `CSS` `JavaScript` `Chrome Extensions API` `Manifest V3` `Figma` `After Effects`
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Chrome%20Extensions-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
+</p>
 
 ---
 
-## Find me
+## 📬 Connect
 
-- 🐙 [github.com/projekta2](https://github.com/projekta2)
-- 💼 [linkedin.com/in/alexiglesias1](https://www.linkedin.com/in/alexiglesias1/)
-- 📧 [hello@projekta2.com](mailto:hello@projekta2.com)
+<p align="center">
+  <a href="https://github.com/projekta2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-<sub>Building in public · Girona, Spain</sub>
+<p align="center">
+  <sub>Building in public · Girona, Spain</sub>
+</p>
