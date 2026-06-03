@@ -46,7 +46,7 @@
         <code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Gumroad licensing</code>
       </details>
       <p align="center">
-        <a href="https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID">
+        <a href="[https://chrome.google.com/webstore/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
           <img src="https://img.shields.io/badge/🚀%20Install%20TabCost%20Pro-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
         </a>
       </p>
