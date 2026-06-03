@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=180&section=header&text=Alexandre%20Iglesias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Graphic%20Designer%20→%20Chrome%20Extension%20Developer&descAlignY=55&descSize=14" width="100%" />
 </p>
 
-<!-- Typing effect (same as before but cleaner) -->
+<!-- Typing effect -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alexandre+Iglesias;Building+extensions+that+respect+your+time;Designer+who+learned+to+code" alt="Typing SVG" />
 </p>
@@ -12,12 +12,12 @@
 
 <!-- Badges for projects -->
 <p align="center">
-  <a href="https://chrome.google.com/webstore/detail/tabcost-pro/YOUR_EXTENSION_ID">
+  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
     <img src="https://img.shields.io/badge/TabCost%20Pro-Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://chrome.google.com/webstore/detail/pr-focus-inbox/YOUR_EXTENSION_ID">
-    <img src="https://img.shields.io/badge/PR%20Focus%20Pro-Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro">
+    <img src="https://img.shields.io/badge/PR%20Focus%20Pro-Buy%20License-orange?style=for-the-badge&logo=gumroad&logoColor=white" />
   </a>
 </p>
 
@@ -25,12 +25,12 @@
 
 ---
 
-## ✨ Current projects
+## Current projects
 
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🔷 TabCost Pro</h3>
+      <h3 align="center">◆ TabCost Pro</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Price-%245%20one--time-orange?style=flat-square" />
@@ -46,13 +46,25 @@
         <code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Gumroad licensing</code>
       </details>
       <p align="center">
-        <a href="[https://chrome.google.com/webstore/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
-          <img src="https://img.shields.io/badge/🚀%20Install%20TabCost%20Pro-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
+          <img src="https://img.shields.io/badge/Install%20on%20Webstore-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        </a>
+        <a href="https://projekta2.github.io/tabcost-landing/">
+          <img src="https://img.shields.io/badge/Landing%20Page-f97316?style=flat-square" />
+        </a>
+        <a href="https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md">
+          <img src="https://img.shields.io/badge/Privacy-6f42c1?style=flat-square" />
+        </a>
+        <a href="https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md">
+          <img src="https://img.shields.io/badge/Support-28a745?style=flat-square" />
+        </a>
+        <a href="https://projekta2.gumroad.com/l/tabcost-pro">
+          <img src="https://img.shields.io/badge/Buy%20License-ff90e8?style=flat-square&logo=gumroad&logoColor=black" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🔶 PR Focus Pro</h3>
+      <h3 align="center">◇ PR Focus Pro</h3>
       <p align="center">
         <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
         <img src="https://img.shields.io/badge/Price-%249.50%20launch%20special-orange?style=flat-square" />
@@ -69,21 +81,29 @@
         <code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
       </details>
       <p align="center">
-        <a href="https://chrome.google.com/webstore/detail/pr-focus-inbox/YOUR_EXTENSION_ID">
-          <img src="https://img.shields.io/badge/🚀%20Install%20PR%20Focus-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+        <a href="https://projekta2.gumroad.com/l/PRFocusAIPro">
+          <img src="https://img.shields.io/badge/Buy%20License-ff90e8?style=flat-square&logo=gumroad&logoColor=black" />
         </a>
-        &nbsp;
+        <a href="https://projekta2.github.io/projekta2-pr-focus-landing/">
+          <img src="https://img.shields.io/badge/Landing%20Page-f97316?style=flat-square" />
+        </a>
         <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html">
-          <img src="https://img.shields.io/badge/🎬%20Live%20Demo-f97316?style=flat-square" />
+          <img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=flat-square" />
+        </a>
+        <a href="https://projekta2.github.io/pr-focus-privacy/">
+          <img src="https://img.shields.io/badge/Privacy-6f42c1?style=flat-square" />
+        </a>
+        <a href="https://projekta2.github.io/pr-focus-terms/">
+          <img src="https://img.shields.io/badge/Terms-1f72e5?style=flat-square" />
         </a>
       </p>
     </td>
-  </tr>
+   </tr>
 </table>
 
 ---
 
-## 🧑‍🎨 Background
+## Background
 
 Before extensions, I spent years at **Projekta2 Creative Studio** building immersive web experiences at the intersection of code and design — the kind where you're not sure if you're looking at a website or an installation.
 
@@ -91,7 +111,7 @@ That background shapes everything I build: obsession with detail, bilingual UX, 
 
 ---
 
-## 🛠️ Stack
+## Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -104,7 +124,7 @@ That background shapes everything I build: obsession with detail, bilingual UX, 
 
 ---
 
-## 📬 Connect with me
+## Connect with me
 
 <p align="center">
   <a href="https://github.com/projekta2">
