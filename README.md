@@ -10,13 +10,13 @@
 
 <br />
 
-<!-- Badges for projects -->
+<!-- Badges for projects (now HTML links with target="_blank") -->
 <p align="center">
-  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
+  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TabCost%20Pro-Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro">
+  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PR%20Focus%20Pro-Buy%20License-orange?style=for-the-badge&logo=gumroad&logoColor=white" />
   </a>
 </p>
@@ -46,19 +46,19 @@
         <code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Gumroad licensing</code>
       </details>
       <p align="center">
-        <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
+        <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Install%20on%20Webstore-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
         </a>
-        <a href="https://projekta2.github.io/tabcost-landing/">
+        <a href="https://projekta2.github.io/tabcost-landing/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Landing%20Page-f97316?style=flat-square" />
         </a>
-        <a href="https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md">
+        <a href="https://github.com/projekta2/tabcost-privacy/blob/main/PRIVACY.md" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Privacy-6f42c1?style=flat-square" />
         </a>
-        <a href="https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md">
+        <a href="https://github.com/projekta2/tabcost-support/blob/main/SUPPORT.md" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Support-28a745?style=flat-square" />
         </a>
-        <a href="https://projekta2.gumroad.com/l/tabcost-pro">
+        <a href="https://projekta2.gumroad.com/l/tabcost-pro" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Buy%20License-ff90e8?style=flat-square&logo=gumroad&logoColor=black" />
         </a>
       </p>
@@ -81,19 +81,19 @@
         <code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
       </details>
       <p align="center">
-        <a href="https://projekta2.gumroad.com/l/PRFocusAIPro">
+        <a href="https://projekta2.gumroad.com/l/PRFocusAIPro" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Buy%20License-ff90e8?style=flat-square&logo=gumroad&logoColor=black" />
         </a>
-        <a href="https://projekta2.github.io/projekta2-pr-focus-landing/">
+        <a href="https://projekta2.github.io/projekta2-pr-focus-landing/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Landing%20Page-f97316?style=flat-square" />
         </a>
-        <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html">
+        <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=flat-square" />
         </a>
-        <a href="https://projekta2.github.io/pr-focus-privacy/">
+        <a href="https://projekta2.github.io/pr-focus-privacy/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Privacy-6f42c1?style=flat-square" />
         </a>
-        <a href="https://projekta2.github.io/pr-focus-terms/">
+        <a href="https://projekta2.github.io/pr-focus-terms/" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Terms-1f72e5?style=flat-square" />
         </a>
       </p>
@@ -127,13 +127,13 @@ That background shapes everything I build: obsession with detail, bilingual UX, 
 ## Connect with me
 
 <p align="center">
-  <a href="https://github.com/projekta2">
+  <a href="https://github.com/projekta2" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/alexiglesias1">
+  <a href="https://linkedin.com/in/alexiglesias1" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:hello@projekta2.com">
+  <a href="mailto:hello@projekta2.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
