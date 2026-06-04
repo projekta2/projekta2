@@ -1,3 +1,90 @@
+<!-- ─────────────────────────────────────────────────────────────────────────
+     VISUAL ENHANCEMENT LAYER
+     CSS below is active in GitLab · Gitea · GitHub Enterprise.
+     github.com sanitizes <style> tags — every animation has an
+     image-based fallback so the README looks great regardless.
+     ───────────────────────────────────────────────────────────────────────── -->
+<style>
+@keyframes pulseGlow {
+  0%, 100% { opacity: 1;   transform: scale(1);    box-shadow: 0 0 0  0 rgba(249,115,22,.45); }
+  50%       { opacity: .75; transform: scale(1.22); box-shadow: 0 0 0 8px rgba(249,115,22,0);  }
+}
+@keyframes shimmerBar {
+  0%   { background-position: -400% center; }
+  100% { background-position:  400% center; }
+}
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translateY(14px); }
+  to   { opacity: 1; transform: translateY(0);    }
+}
+
+/* Section entry */
+h2, h3, table, p, blockquote, details {
+  animation: fadeInUp .55s ease both;
+}
+
+/* Heading shimmer gradient */
+h2 {
+  background: linear-gradient(90deg, #f97316 0%, #fbbf24 35%, #ea580c 65%, #f97316 100%);
+  background-size: 300% 100%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  animation: shimmerBar 6s linear infinite, fadeInUp .55s ease both;
+  padding-bottom: 4px;
+}
+
+/* Badge hover — lift + warm glow */
+a > img {
+  transition: filter .2s ease, transform .2s ease;
+}
+a > img:hover {
+  filter: brightness(1.12) saturate(1.18) drop-shadow(0 2px 8px rgba(249,115,22,.4));
+  transform: translateY(-2px);
+}
+
+/* Project card hover */
+td {
+  border-radius: 12px !important;
+  padding: 20px !important;
+  transition: transform .22s ease, box-shadow .22s ease;
+}
+td:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 14px 32px rgba(249,115,22,.18);
+}
+
+/* Pulse dot for live CTAs */
+.dot {
+  display: inline-block;
+  width: 9px; height: 9px;
+  border-radius: 50%;
+  background: #f97316;
+  animation: pulseGlow 2.4s ease-in-out infinite;
+  vertical-align: middle;
+  margin-right: 6px;
+}
+
+/* Code tag elevation */
+code {
+  background: rgba(249,115,22,.08) !important;
+  border: 1px solid rgba(249,115,22,.22) !important;
+  border-radius: 5px !important;
+  padding: 2px 7px !important;
+  font-family: 'JetBrains Mono', 'Fira Code', monospace !important;
+  font-size: .85em !important;
+  color: #f97316 !important;
+  letter-spacing: .025em !important;
+}
+
+/* Blockquote accent */
+blockquote {
+  border-left: 3px solid #f97316 !important;
+  padding-left: 14px !important;
+  color: #9ca3af !important;
+}
+</style>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=ffffffcc" width="100%" />
 </p>
@@ -10,7 +97,9 @@
 
 <br />
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## Who I am
 
@@ -22,7 +111,11 @@ That background shapes everything I ship: obsession with detail, bilingual UX fr
 
 Now I'm building Chrome extensions — small, focused tools for freelancers and developers who value their time.
 
----
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## What I'm building
 
@@ -45,11 +138,12 @@ You work at an hourly rate. Your open tabs don't. TabCost Pro tracks inactive br
 **Built for:** freelancers, consultants, anyone billing by the hour.
 
 **What it does:**
-- Real-time cost tracker per tab, based on your hourly rate
-- Auto-close idle tabs (configurable threshold)
-- CSV export for billing or time audits
-- Dark / Light themes · Bilingual EN/ES
-- One-time payment, no subscription
+
+▹ Real-time cost tracker per tab, based on your hourly rate  
+▹ Auto-close idle tabs (configurable threshold)  
+▹ CSV export for billing or time audits  
+▹ Dark / Light themes · Bilingual EN/ES  
+▹ One-time payment, no subscription  
 
 <p>
   <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
@@ -63,7 +157,7 @@ You work at an hourly rate. Your open tabs don't. TabCost Pro tracks inactive br
 <code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Gumroad licensing</code>
 </details>
 
-    </td>
+  </td>
     <td width="50%" valign="top">
 
 ### ◇ PR Focus Pro
@@ -81,12 +175,13 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 **Built for:** developers managing multiple repos or multi-account GitHub workflows.
 
 **What it does:**
-- AI summaries + risk scoring (0–100) per PR
-- Hybrid priority queue: CI status + age + AI risk
-- One-click draft review generation
-- Multi-account GitHub support
-- 100% local (BYOK) — OpenAI, Groq, Mistral, Ollama
-- Freemium: core free / Pro $9.50 one-time
+
+▹ AI summaries + risk scoring (0–100) per PR  
+▹ Hybrid priority queue: CI status + age + AI risk  
+▹ One-click draft review generation  
+▹ Multi-account GitHub support  
+▹ 100% local (BYOK) — OpenAI, Groq, Mistral, Ollama  
+▹ Freemium: core free / Pro $9.50 one-time  
 
 <p>
   <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%249.50-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
@@ -100,11 +195,15 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 <code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
 </details>
 
-    </td>
+  </td>
   </tr>
 </table>
 
----
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## What I believe about software
 
@@ -112,7 +211,11 @@ Most tools are built to impress on a demo. I build for the third week of use —
 
 That means: no dark patterns, no fake urgency, no subscription traps for features that should be one-time. Just tools that do one thing well, with care for the person using them.
 
----
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## Stack
 
@@ -127,7 +230,11 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
   <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
 </p>
 
----
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## If you're a potential client or employer
 
@@ -135,9 +242,15 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 **Employers / freelance:** I bring an unusual combination — production-level visual design and working knowledge of Chrome Extension APIs, AI integration, and JavaScript from scratch. I care deeply about UX that doesn't require a tutorial.
 
----
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+
+<br />
 
 ## Let's talk
+
+<span class="dot"></span>
 
 <p>
   <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -147,7 +260,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 <p><sub><i>Building in public · Girona, Spain · Always open to interesting problems.</i></sub></p>
 
----
+<br />
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer" width="100%" />
