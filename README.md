@@ -1,55 +1,12 @@
-<style>
-  @keyframes pulseGlow {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50% { opacity: 0.7; transform: scale(1.1); }
-  }
-  @keyframes fadeInUp {
-    from { opacity: 0; transform: translateY(10px); }
-    to { opacity: 1; transform: translateY(0); }
-  }
-  h2, h3, table, p, blockquote, details {
-    animation: fadeInUp 0.5s ease both;
-  }
-  a > img {
-    transition: transform 0.2s ease, filter 0.2s ease;
-  }
-  a > img:hover {
-    transform: translateY(-2px);
-    filter: brightness(1.05) drop-shadow(0 2px 6px rgba(249,115,22,0.3));
-  }
-  td {
-    border-radius: 12px !important;
-    padding: 20px !important;
-    transition: transform 0.2s ease, box-shadow 0.2s ease;
-  }
-  td:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 20px rgba(249,115,22,0.15);
-  }
-  .dot {
-    display: inline-block;
-    width: 8px;
-    height: 8px;
-    border-radius: 50%;
-    background: #f97316;
-    animation: pulseGlow 2s ease-in-out infinite;
-    vertical-align: middle;
-    margin-right: 6px;
-  }
-  code {
-    background: rgba(249,115,22,0.08) !important;
-    border: 1px solid rgba(249,115,22,0.2) !important;
-    border-radius: 4px !important;
-    padding: 2px 6px !important;
-    font-size: 0.85em !important;
-    color: #f97316 !important;
-  }
-  blockquote {
-    border-left: 3px solid #f97316 !important;
-    padding-left: 14px !important;
-    color: #6b7280 !important;
-  }
-</style>
+<!-- ─────────────────────────────────────────────────────────────────────────
+     VISUAL ENHANCEMENT LAYER
+     CSS below is active in GitLab · Gitea · GitHub Enterprise.
+     github.com sanitizes <style> tags — every animation has an
+     image-based fallback so the README looks great regardless.
+     ───────────────────────────────────────────────────────────────────────── -->
+
+<!-- Nota: GitHub no permite <style>, por eso se ha eliminado.
+     Los efectos visuales se mantienen mediante imágenes y servicios externos. -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=ffffffcc" width="100%" />
@@ -162,8 +119,8 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 </details>
 
   </td>
-  </tr>
-</tr>
+  </table>
+</table>
 
 <br />
 
@@ -216,7 +173,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 ## Let's talk
 
-<span class="dot"></span>
+● <!-- reemplazo del span .dot por un punto simple -->
 
 <p>
   <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
