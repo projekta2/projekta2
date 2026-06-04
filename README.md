@@ -12,12 +12,7 @@
   <img src="https://img.shields.io/badge/🇬🇧-ENGLISH-blue?style=for-the-badge" />
   <strong> | </strong>
   <a href="README.es.md"><img src="https://img.shields.io/badge/🇪🇸-ESPAÑOL-orange?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-</p>  
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=ffffffcc" width="100%" />
 </p>
-
 <br />
 
 <p align="center">
