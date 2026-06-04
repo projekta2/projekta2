@@ -1,16 +1,16 @@
 <!-- Header with animated gradient line -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=180&section=header&text=Alexandre%20Iglesias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Graphic%20Designer%20→%20Chrome%20Extension%20Developer&descAlignY=55&descSize=14" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=180&section=header&text=Alexandre%20Iglesias&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Creative%20Director%20%26%20Visual%20Designer%20→%20Chrome%20Extension%20Developer&descAlignY=55&descSize=14" width="100%" />
 </p>
 
 <!-- Typing effect -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Alexandre+Iglesias;Building+extensions+that+respect+your+time;Designer+who+learned+to+code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Hey%2C+I'm+Alexandre+Iglesias;Founder+of+Alexwave+Chill;Emotional+design+%2B+visual+wellbeing;Building+extensions+that+respect+your+time" alt="Typing SVG" />
 </p>
 
 <br />
 
-<!-- Badges for projects (now HTML links with target="_blank") -->
+<!-- Badges for projects -->
 <p align="center">
   <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/TabCost%20Pro-Live-brightgreen?style=for-the-badge&logo=googlechrome&logoColor=white" />
@@ -105,9 +105,20 @@
 
 ## Background
 
-Before extensions, I spent years at **Projekta2 Creative Studio** building immersive web experiences at the intersection of code and design — the kind where you're not sure if you're looking at a website or an installation.
+I'm a **Creative Director & Visual Designer** with over a decade of experience in emotional design, visual wellbeing, and applied neurodesign. I founded **Alexwave Chill**, where I explore how micro‑actions (5‑minute interventions) can restore focus and reduce digital friction.
 
-That background shapes everything I build: obsession with detail, bilingual UX, and dark mode that actually works.
+Before building Chrome extensions, I ran **Projekta2 Creative Studio** — creating immersive web experiences at the intersection of code and design. That background shapes everything I build today: obsession with detail, bilingual UX, and dark mode that actually works.
+
+My mission: turn invisible distraction into visible, actionable data — with respect for your time and cognitive load.
+
+---
+
+## Design philosophy
+
+- **Emotional design** – Every interface should feel calm, not chaotic.
+- **Visual wellbeing** – Reduce noise, increase clarity.
+- **Neurodesign applied** – Small friction points drain energy; I eliminate them.
+- **Branding with intention** – Even a popup can feel like a tool, not a trap.
 
 ---
 
