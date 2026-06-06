@@ -113,6 +113,7 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 ▹ Freemium: core free / Pro $9.50 one-time  
 
 <p>
+ <a href="https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%249.50-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
   <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
   <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" /></a>
