@@ -8,7 +8,7 @@
 <!-- Nota: GitHub no permite <style>, por eso se ha eliminado.
      Los efectos visuales se mantienen mediante imágenes y servicios externos. -->
 
-  <p align="center">
+<p align="center">
   <img src="https://img.shields.io/badge/🇬🇧-ENGLISH-blue?style=for-the-badge" />
   <strong> | </strong>
   <a href="README.es.md"><img src="https://img.shields.io/badge/🇪🇸-ESPAÑOL-orange?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
@@ -125,8 +125,58 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 <code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
 </details>
 
-  </td>
   </table>
+  </table>
+</table>
+
+<!-- Nueva fila para ChainTrace (ancho completo) -->
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+
+### ⛓️ ChainTrace
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Price-%2449%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freemium-available-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+
+> *Stop copy‑pasting from supplier portals. Extract tables, cards, grids into Google Sheets in one click.*
+
+ChainTrace is the only Chrome extension built specifically for supply chain professionals who need to extract product data from Alibaba, Amazon Business, SAP Ariba, Shopify, or internal ERPs — and push it directly to Google Sheets, Excel, CSV, or your own API.
+
+**Built for:** procurement managers, supply chain analysts, e‑commerce operators, logistics teams.
+
+**What it does:**
+
+▹ Auto‑detects tables, product cards, grids, iframes – works on 99% of portals  
+▹ One‑click export to Google Sheets (overwrite or append) + real XLSX/CSV  
+▹ Validation rules: not empty, numeric, greater than, regex patterns, transforms (uppercase/trim)  
+▹ Recipes: per‑site validation rules saved for automatic re‑application  
+▹ Multi‑page pagination: automatically clicks “Next” across up to 20 pages  
+▹ REST API export with custom headers – send data directly to your ERP  
+▹ 100% local processing: zero data collection, zero telemetry, your data never leaves your browser  
+▹ Freemium: free tier (50 captures/mo, 500 rows) / Premium $49 lifetime (unlimited)  
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/chaintrace/xxxxx"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Buy%20Premium%20%E2%80%94%20%2449-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>Manifest V3</code> · <code>DOM extraction</code> · <code>Google Sheets API (OAuth2)</code> · <code>XLSX (OOXML) + ZIP</code> · <code>Gumroad licensing</code> · <code>Chrome Storage API</code>
+</details>
+
+  </td>
+  </tr>
 </table>
 
 <br />
