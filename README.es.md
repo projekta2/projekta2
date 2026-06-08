@@ -15,18 +15,18 @@
 </p>  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=ffffffcc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Extensiones%20Chrome%20%C2%B7%20Dise%C3%B1ador%20Visual%20%C2%B7%20Girona%2C%20Espa%C3%B1a&descAlignY=56&descSize=15&descColor=cccccc" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=620&lines=Building+extensions+that+respect+your+time.;Visual+Designer+who+learned+to+code.;Obsessed+with+detail%2C+bilingual+UX%2C+dark+mode+done+right." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=94B715&center=true&vCenter=true&width=620&lines=Construyendo+extensiones+que+respetan+tu+tiempo.;Dise%C3%B1ador+visual+que+aprendi%C3%B3+a+programar.;Obsesionado+con+el+detalle%2C+UX+biling%C3%BCe%2C+modo+oscuro+bien+hecho." alt="Typing SVG" />
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -42,7 +42,7 @@ Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y en
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -55,8 +55,8 @@ Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y en
 ### ◆ TabCost Pro
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Price-%245%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Precio-%245%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
@@ -75,15 +75,15 @@ Trabajas con una tarifa por hora. Tus pestañas abiertas, no. TabCost Pro rastre
 ▹ Pago único, sin suscripción  
 
 <p>
-  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://projekta2.gumroad.com/l/tabcost-pro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%245-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/tabcost-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
+  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://projekta2.gumroad.com/l/tabcost-pro"><img src="https://img.shields.io/badge/Comprar%20Pro%20%E2%80%94%20%245-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/tabcost-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
 </p>
 
 <details>
 <summary><code>Tech stack</code></summary>
 <br />
-<code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Gumroad licensing</code>
+<code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Licenciamiento Gumroad</code>
 </details>
 
   </td>
@@ -92,9 +92,9 @@ Trabajas con una tarifa por hora. Tus pestañas abiertas, no. TabCost Pro rastre
 ### ◇ PR Focus Pro
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pro%20%E2%80%94%20%249.50%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
-  <img src="https://img.shields.io/badge/Freemium-available-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pro%20%E2%80%94%20%249.50%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freemium-disponible-blue?style=flat-square" />
 </p>
 
 > *Tu bandeja de entrada de PRs de GitHub es un caos. PR Focus Pro aporta claridad impulsada por IA al caos.*
@@ -113,15 +113,66 @@ PR Focus Pro se sitúa sobre GitHub y utiliza IA para resumir, puntuar y prioriz
 ▹ Freemium: núcleo gratuito / Pro $9.50 pago único  
 
 <p>
-  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%249.50-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" /></a>
+  <a href="https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Comprar%20Pro%20%E2%80%94%20%249.50-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
+  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Demo%20en%20vivo-94B715?style=for-the-badge" /></a>
 </p>
 
 <details>
 <summary><code>Tech stack</code></summary>
 <br />
-<code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
+<code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>Ingeniería de prompts IA</code> · <code>Validación de licencias Gumroad</code>
+</details>
+
+  </td>
+  </tr>
+</table>
+
+<!-- Nueva fila para ChainTrace (ancho completo) -->
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="100%" valign="top">
+
+### ⛓️ ChainTrace
+
+<p>
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Precio-%2449%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Freemium-disponible-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+</p>
+
+> *Deja de copiar y pegar desde los portales de proveedores. Extrae tablas, tarjetas y cuadrículas a Google Sheets en un solo clic.*
+
+ChainTrace es la única extensión de Chrome construida específicamente para profesionales de la cadena de suministro que necesitan extraer datos de productos de Alibaba, Amazon Business, SAP Ariba, Shopify o ERPs internos — y enviarlos directamente a Google Sheets, Excel, CSV o tu propia API.
+
+**Diseñado para:** responsables de compras, analistas de supply chain, operadores de e‑commerce, equipos de logística.
+
+**Lo que hace:**
+
+▹ Detecta automáticamente tablas, tarjetas de productos, cuadrículas e iframes – funciona en el 99% de los portales  
+▹ Exportación con un clic a Google Sheets (sobrescribir o añadir) + XLSX/CSV real  
+▹ Reglas de validación: no vacío, numérico, mayor que, expresiones regulares, transformaciones (mayúsculas/recortar)  
+▹ Recetas: reglas de validación por sitio guardadas para reaplicación automática  
+▹ Paginación multi‑página: hace clic automáticamente en “Siguiente” hasta 20 páginas  
+▹ Exportación vía API REST con cabeceras personalizadas – envía datos directamente a tu ERP  
+▹ 100% local: cero recopilación de datos, cero telemetría, tus datos nunca salen de tu navegador  
+▹ Freemium: nivel gratuito (50 capturas/mes, 500 filas) / Premium $49 vitalicio (ilimitado)  
+
+<p>
+  <a href="https://chromewebstore.google.com/detail/chaintrace/xxxxx"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Comprar%20Premium%20%E2%80%94%20%2449-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Demo%20en%20vivo-94B715?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>Manifest V3</code> · <code>Extracción del DOM</code> · <code>Google Sheets API (OAuth2)</code> · <code>XLSX (OOXML) + ZIP</code> · <code>Licenciamiento Gumroad</code> · <code>Chrome Storage API</code>
 </details>
 
   </td>
@@ -130,7 +181,7 @@ PR Focus Pro se sitúa sobre GitHub y utiliza IA para resumir, puntuar y prioriz
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -142,7 +193,7 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -152,7 +203,7 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chrome%20Extensions%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
+  <img src="https://img.shields.io/badge/Extensiones%20Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
@@ -161,7 +212,7 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -173,7 +224,7 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -192,5 +243,5 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=100&section=footer" width="100%" />
 </p>
