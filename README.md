@@ -15,18 +15,18 @@
 </p>   
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=ffffffcc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=cccccc" width="100%" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=F97316&center=true&vCenter=true&width=620&lines=Building+extensions+that+respect+your+time.;Visual+Designer+who+learned+to+code.;Obsessed+with+detail%2C+bilingual+UX%2C+dark+mode+done+right." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=94B715&center=true&vCenter=true&width=620&lines=Building+extensions+that+respect+your+time.;Visual+Designer+who+learned+to+code.;Obsessed+with+detail%2C+bilingual+UX%2C+dark+mode+done+right." alt="Typing SVG" />
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -42,7 +42,7 @@ Now I'm building Chrome extensions — small, focused tools for freelancers and 
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -56,7 +56,7 @@ Now I'm building Chrome extensions — small, focused tools for freelancers and 
 
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Price-%245%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Price-%245%20one--time%2C%20no%20subscription-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
 
@@ -76,8 +76,8 @@ You work at an hourly rate. Your open tabs don't. TabCost Pro tracks inactive br
 
 <p>
   <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://projekta2.gumroad.com/l/tabcost-pro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%245-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/tabcost-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
+  <a href="https://projekta2.gumroad.com/l/tabcost-pro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%245-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/tabcost-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
 </p>
 
 <details>
@@ -93,7 +93,7 @@ You work at an hourly rate. Your open tabs don't. TabCost Pro tracks inactive br
 
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pro%20%E2%80%94%20%249.50%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pro%20%E2%80%94%20%249.50%20one--time%2C%20no%20subscription-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Freemium-available-blue?style=flat-square" />
 </p>
 
@@ -114,9 +114,9 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 
 <p>
  <a href="https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%249.50-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" /></a>
+  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Buy%20Pro%20%E2%80%94%20%249.50-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
+  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Live%20Demo-94B715?style=for-the-badge" /></a>
 </p>
 
 <details>
@@ -125,7 +125,7 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 <code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>AI prompt engineering</code> · <code>Gumroad license validation</code>
 </details>
 
-  </table>
+  </td>
   </table>
 </table>
 
@@ -140,7 +140,7 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 
 <p>
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Price-%2449%20one--time%2C%20no%20subscription-f97316?style=flat-square" />
+  <img src="https://img.shields.io/badge/Price-%2449%20one--time%2C%20no%20subscription-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Freemium-available-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
 </p>
@@ -164,9 +164,9 @@ ChainTrace is the only Chrome extension built specifically for supply chain prof
 
 <p>
   <a href="https://chromewebstore.google.com/detail/chaintrace/xxxxx"><img src="https://img.shields.io/badge/Install%20Free-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Buy%20Premium%20%E2%80%94%20%2449-ff90e8?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-f97316?style=for-the-badge" /></a>
-  <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Live%20Demo-ff69b4?style=for-the-badge" /></a>
+  <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Buy%20Premium%20%E2%80%94%20%2449-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
+  <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Live%20Demo-94B715?style=for-the-badge" /></a>
 </p>
 
 <details>
@@ -181,7 +181,7 @@ ChainTrace is the only Chrome extension built specifically for supply chain prof
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -193,7 +193,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -212,7 +212,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -224,7 +224,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:f97316,100:ea580c&height=3&reversal=false" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
 
 <br />
 
@@ -243,5 +243,5 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:f97316,100:ea580c&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=100&section=footer" width="100%" />
 </p>
