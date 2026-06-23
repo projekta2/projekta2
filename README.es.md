@@ -38,7 +38,7 @@ Pasé años dirigiendo **Projekta2 Creative Studio**, creando experiencias web i
 
 Esa experiencia da forma a todo lo que publico: obsesión por el detalle, UX bilingüe desde el primer día y modo oscuro que realmente funciona.
 
-Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y enfocadas para freelancers y desarrolladores que valoran su tiempo.
+Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y enfocadas para freelancers y desarrolladores que valoran su tiempo — y compartiendo las decisiones de ingeniería que hay detrás de ellas en público.
 
 <br />
 
@@ -129,7 +129,7 @@ PR Focus Pro se sitúa sobre GitHub y utiliza IA para resumir, puntuar y prioriz
   </tr>
 </table>
 
-<!-- Nueva fila para ChainTrace (ancho completo) -->
+<!-- ChainTrace (ancho completo) -->
 <br />
 
 <table width="100%">
@@ -179,6 +179,83 @@ ChainTrace es la única extensión de Chrome construida específicamente para pr
   </tr>
 </table>
 
+<!-- Nueva fila para Build Logs + PR Review Canvas -->
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 📓 Build Logs
+
+<p>
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-Diario%20de%20Ingeniería-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código%20Abierto-0a0c10?style=flat-square" />
+</p>
+
+> *Decisiones de ingeniería reales de productos indie en producción. Sin teoría — solo decisiones que se publicaron.*
+
+Build Logs es un registro público de cada decisión significativa tomada mientras construía TabCost, PR Focus y ChainTrace. Cada entrada desglosa una decisión concreta: qué se eligió, qué costó y si lo volvería a hacer. Sin relleno, sin "10 consejos" — solo decisiones reales.
+
+**Incluye:**
+
+▹ Puntuación de riesgo híbrida (IA + determinista)  
+▹ Arquitectura BYOK frente a backend alojado  
+▹ Desafíos de migración a MV3  
+▹ Licenciamiento Gumroad sin backend  
+▹ Ingeniería de prompts para resultados consistentes de IA  
+
+<p>
+  <a href="https://github.com/projekta2/build-logs"><img src="https://img.shields.io/badge/Ver%20Logs-14588e?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/build-logs/issues/1"><img src="https://img.shields.io/badge/Unirse%20al%20Review%20Swap-94B715?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>Markdown</code> · <code>GitHub Issues</code> · <code>GitHub Actions</code> · <code>Impulsado por la comunidad</code>
+</details>
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🧠 PR Review Canvas
+
+<p>
+  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Tipo-Recurso%20Gratuito-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Código%20Abierto-0a0c10?style=flat-square" />
+</p>
+
+> *Un kit de supervivencia gratuito y abierto para revisiones de código — listas de verificación, plantillas, guías y un rastreador interactivo en vivo para cualquiera que revise pull requests.*
+
+PR Review Canvas es un kit completo y con opinión que cubre todo el ciclo de vida de la revisión: desde redactar descripciones de PR, hasta revisar línea por línea, pasando por dar feedback que no provoque una discusión en los comentarios.
+
+**Incluye:**
+
+▹ Lista de verificación interactiva de 51 ítems (con puntuación de "Preparación para la Revisión")  
+▹ Plantillas de PR (básica y avanzada)  
+▹ Guías para principiantes, expertos, dar y recibir feedback  
+▹ Ejemplos anotados de PR bueno y malo  
+▹ Referencia de anti‑patrones en revisiones de código  
+▹ Plantillas para importar a Notion y Obsidian  
+
+<p>
+  <a href="https://projekta2.github.io/pr-review-canvas/"><img src="https://img.shields.io/badge/Probar%20en%20vivo-94B715?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/pr-review-canvas"><img src="https://img.shields.io/badge/Ver%20Repositorio-14588e?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>HTML · CSS · JavaScript</code> · <code>GitHub Pages</code> · <code>Impulsado por la comunidad</code>
+</details>
+
+  </td>
+  </tr>
+</table>
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
@@ -218,9 +295,11 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 
 ## Si eres un cliente potencial o empleador
 
-**Clientes:** Ambas extensiones están en funcionamiento y disponibles para instalar o comprar hoy. La mejor manera de evaluar mi trabajo es usarlas. Si tienes un caso de uso específico o quieres que desarrolle una extensión a medida, contacta conmigo.
+**Clientes:** Las tres extensiones están en funcionamiento y disponibles para instalar o comprar hoy. La mejor manera de evaluar mi trabajo es usarlas. Si tienes un caso de uso específico o quieres que desarrolle una extensión a medida, contacta conmigo.
 
 **Empleadores / freelance:** Aporto una combinación inusual — diseño visual de nivel de producción y conocimiento práctico de las APIs de Chrome Extensions, integración de IA y JavaScript desde cero. Me importa profundamente la UX que no necesita un tutorial.
+
+**Comunidad open‑source:** También mantengo dos recursos públicos — [Build Logs](https://github.com/projekta2/build-logs) (decisiones de ingeniería) y [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) (kit de revisión de código). Ambos están abiertos a contribuciones y comentarios.
 
 <br />
 
