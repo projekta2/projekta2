@@ -309,13 +309,22 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
 
 ## Hablemos
 
-● <!-- reemplazo del span .dot por un punto simple -->
-
-<p>
-  <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/projekta2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-</p>
+<table width="100%">
+  <tr>
+    <td width="20%" valign="middle" align="center">
+      <img src="assets/images/profile.jpg" alt="Alexandre Iglesias" width="140" style="border-radius: 50%; border: 3px solid #94b715; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    </td>
+    <td width="80%" valign="middle">
+      <p><strong>Alexandre Iglesias</strong><br />
+      <em>Diseñador Visual · Desarrollador de Extensiones Chrome · Girona, España</em></p>
+      <p>
+        <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+        <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+        <a href="https://github.com/projekta2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p><sub><i>Construyendo en público · Girona, España · Siempre abierto a problemas interesantes.</i></sub></p>
 
