@@ -15,7 +15,7 @@
 </p>   
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=15&descColor=cccccc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Chrome%20Extension%20Developer%20%C2%B7%20Visual%20Designer%20%C2%B7%20Open%20Source%20Maintainer%20%C2%B7%20Girona%2C%20Spain&descAlignY=56&descSize=14&descColor=cccccc" width="100%" />
 </p>
 
 <br />
@@ -38,7 +38,7 @@ I spent years running **Projekta2 Creative Studio**, building immersive web expe
 
 That background shapes everything I ship: obsession with detail, bilingual UX from day one, and dark mode that actually works.
 
-Now I'm building Chrome extensions — small, focused tools for freelancers and developers who value their time — and sharing the engineering decisions behind them in public.
+Now I'm building **Chrome extensions** for freelancers and developers — and **open‑source resources** for the community, with everything documented in public.
 
 <br />
 
@@ -46,7 +46,7 @@ Now I'm building Chrome extensions — small, focused tools for freelancers and 
 
 <br />
 
-## What I'm building
+## 📦 What I'm building
 
 <table width="100%">
   <tr>
@@ -226,6 +226,7 @@ Build Logs is a public record of every significant decision made while building 
   <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Type-Free%20Resource-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Open%20Source-0a0c10?style=flat-square" />
+  <img src="https://img.shields.io/badge/🆕-Latest_Release-94B715?style=flat-square&color=f97316" />
 </p>
 
 > *A free, open code review survival kit — checklists, templates, guides, and a live interactive tracker for anyone who reviews pull requests.*
@@ -244,6 +245,7 @@ PR Review Canvas is a complete, opinionated kit covering the entire review lifec
 <p>
   <a href="https://projekta2.github.io/pr-review-canvas/"><img src="https://img.shields.io/badge/Try%20Live-94B715?style=for-the-badge" /></a>
   <a href="https://github.com/projekta2/pr-review-canvas"><img src="https://img.shields.io/badge/View%20Repo-14588e?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/pr-review-canvas/issues"><img src="https://img.shields.io/badge/Help%20Wanted%20(9%20issues)-f97316?style=for-the-badge" /></a>
 </p>
 
 <details>
@@ -253,6 +255,35 @@ PR Review Canvas is a complete, opinionated kit covering the entire review lifec
 </details>
 
   </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
+
+<br />
+
+## 📝 Latest activity
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**📚 Articles on dev.to**
+- [Freemium vs. one-time vs. subscription: how I chose the pricing model for my Chrome extension](https://dev.to/...)
+- [Migrating a Chrome extension from MV2 to MV3: what broke, how I fixed it, and what I'd do differently](https://dev.to/...)
+- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/...)
+
+</td>
+    <td width="50%" valign="top">
+
+**🛠️ Open source contributions**
+- [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) — 9 open issues, good first issues available
+- [Build Logs](https://github.com/projekta2/build-logs) — engineering decisions from indie products
+- [Review Swap](https://github.com/projekta2/build-logs/issues/1) — monthly PR review exchange
+
+</td>
   </tr>
 </table>
 
@@ -316,7 +347,7 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
     </td>
     <td width="80%" valign="middle">
       <p><strong>Alexandre Iglesias</strong><br />
-      <em>Visual Designer · Chrome Extension Developer · Girona, Spain</em></p>
+      <em>Visual Designer · Chrome Extension Developer · Open Source Maintainer · Girona, Spain</em></p>
       <p>
         <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
