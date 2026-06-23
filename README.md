@@ -38,7 +38,7 @@ I spent years running **Projekta2 Creative Studio**, building immersive web expe
 
 That background shapes everything I ship: obsession with detail, bilingual UX from day one, and dark mode that actually works.
 
-Now I'm building Chrome extensions — small, focused tools for freelancers and developers who value their time.
+Now I'm building Chrome extensions — small, focused tools for freelancers and developers who value their time — and sharing the engineering decisions behind them in public.
 
 <br />
 
@@ -126,10 +126,10 @@ PR Focus Pro sits on top of GitHub and uses AI to summarize, score, and prioriti
 </details>
 
   </td>
-  </table>
+  </tr>
 </table>
 
-<!-- Nueva fila para ChainTrace (ancho completo) -->
+<!-- ChainTrace (ancho completo) -->
 <br />
 
 <table width="100%">
@@ -179,6 +179,83 @@ ChainTrace is the only Chrome extension built specifically for supply chain prof
   </tr>
 </table>
 
+<!-- Nueva fila para Build Logs + PR Review Canvas -->
+<br />
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+### 📓 Build Logs
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Engineering%20Journal-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-0a0c10?style=flat-square" />
+</p>
+
+> *Real engineering decisions from indie products in production. No theory — just decisions that shipped.*
+
+Build Logs is a public record of every significant decision made while building TabCost, PR Focus, and ChainTrace. Each log breaks down one specific trade-off: what was chosen, what it cost, and whether I'd do it again. No filler, no "10 tips" — just real decisions.
+
+**Includes:**
+
+▹ Hybrid risk scoring (AI + deterministic)  
+▹ BYOK architecture vs. hosted backend  
+▹ MV3 migration challenges  
+▹ Gumroad licensing without a backend  
+▹ Prompt engineering for consistent AI output  
+
+<p>
+  <a href="https://github.com/projekta2/build-logs"><img src="https://img.shields.io/badge/Browse%20Logs-14588e?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/build-logs/issues/1"><img src="https://img.shields.io/badge/Join%20Review%20Swap-94B715?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>Markdown</code> · <code>GitHub Issues</code> · <code>GitHub Actions</code> · <code>Community-driven</code>
+</details>
+
+  </td>
+  <td width="50%" valign="top">
+
+### 🧠 PR Review Canvas
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Live-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Type-Free%20Resource-94B715?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-0a0c10?style=flat-square" />
+</p>
+
+> *A free, open code review survival kit — checklists, templates, guides, and a live interactive tracker for anyone who reviews pull requests.*
+
+PR Review Canvas is a complete, opinionated kit covering the entire review lifecycle: from writing PR descriptions, to reviewing line by line, to giving feedback that doesn't start a fight in the comments thread.
+
+**Includes:**
+
+▹ 51-item interactive checklist (with "Review Readiness" score)  
+▹ PR templates (basic + advanced)  
+▹ Guides for beginners, experts, giving & receiving feedback  
+▹ Annotated good/bad PR examples  
+▹ Code review anti‑patterns reference  
+▹ Notion & Obsidian import templates  
+
+<p>
+  <a href="https://projekta2.github.io/pr-review-canvas/"><img src="https://img.shields.io/badge/Try%20Live-94B715?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/pr-review-canvas"><img src="https://img.shields.io/badge/View%20Repo-14588e?style=for-the-badge" /></a>
+</p>
+
+<details>
+<summary><code>Tech stack</code></summary>
+<br />
+<code>HTML · CSS · JavaScript</code> · <code>GitHub Pages</code> · <code>Community-driven</code>
+</details>
+
+  </td>
+  </tr>
+</table>
+
 <br />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
@@ -218,9 +295,11 @@ That means: no dark patterns, no fake urgency, no subscription traps for feature
 
 ## If you're a potential client or employer
 
-**Clients:** Both extensions are live and available to install or buy today. The best way to evaluate my work is to use it. If you have a specific use case or want a custom extension built, reach out.
+**Clients:** All three extensions are live and available to install or buy today. The best way to evaluate my work is to use them. If you have a specific use case or want a custom extension built, reach out.
 
 **Employers / freelance:** I bring an unusual combination — production-level visual design and working knowledge of Chrome Extension APIs, AI integration, and JavaScript from scratch. I care deeply about UX that doesn't require a tutorial.
+
+**Open-source community:** I also maintain two public resources — [Build Logs](https://github.com/projekta2/build-logs) (engineering decisions) and [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) (code review kit). Both are open to contributions and feedback.
 
 <br />
 
