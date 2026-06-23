@@ -15,7 +15,7 @@
 </p>  
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Extensiones%20Chrome%20%C2%B7%20Dise%C3%B1ador%20Visual%20%C2%B7%20Girona%2C%20Espa%C3%B1a&descAlignY=56&descSize=15&descColor=cccccc" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Extensiones%20Chrome%20%C2%B7%20Dise%C3%B1ador%20Visual%20%C2%B7%20Mantenedor%20Open%20Source%20%C2%B7%20Girona%2C%20Espa%C3%B1a&descAlignY=56&descSize=14&descColor=cccccc" width="100%" />
 </p>
 
 <br />
@@ -38,7 +38,7 @@ Pasé años dirigiendo **Projekta2 Creative Studio**, creando experiencias web i
 
 Esa experiencia da forma a todo lo que publico: obsesión por el detalle, UX bilingüe desde el primer día y modo oscuro que realmente funciona.
 
-Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y enfocadas para freelancers y desarrolladores que valoran su tiempo — y compartiendo las decisiones de ingeniería que hay detrás de ellas en público.
+Ahora estoy construyendo **extensiones para Chrome** para freelancers y desarrolladores — y **recursos open‑source** para la comunidad, con todo documentado en público.
 
 <br />
 
@@ -46,7 +46,7 @@ Ahora estoy construyendo extensiones para Chrome — herramientas pequeñas y en
 
 <br />
 
-## Lo que estoy construyendo
+## 📦 Lo que estoy construyendo
 
 <table width="100%">
   <tr>
@@ -226,6 +226,7 @@ Build Logs es un registro público de cada decisión significativa tomada mientr
   <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
   <img src="https://img.shields.io/badge/Tipo-Recurso%20Gratuito-94B715?style=flat-square" />
   <img src="https://img.shields.io/badge/Código%20Abierto-0a0c10?style=flat-square" />
+  <img src="https://img.shields.io/badge/🆕-Último%20lanzamiento-94B715?style=flat-square&color=f97316" />
 </p>
 
 > *Un kit de supervivencia gratuito y abierto para revisiones de código — listas de verificación, plantillas, guías y un rastreador interactivo en vivo para cualquiera que revise pull requests.*
@@ -244,6 +245,7 @@ PR Review Canvas es un kit completo y con opinión que cubre todo el ciclo de vi
 <p>
   <a href="https://projekta2.github.io/pr-review-canvas/"><img src="https://img.shields.io/badge/Probar%20en%20vivo-94B715?style=for-the-badge" /></a>
   <a href="https://github.com/projekta2/pr-review-canvas"><img src="https://img.shields.io/badge/Ver%20Repositorio-14588e?style=for-the-badge" /></a>
+  <a href="https://github.com/projekta2/pr-review-canvas/issues"><img src="https://img.shields.io/badge/Se%20necesita%20ayuda%20(9%20issues)-f97316?style=for-the-badge" /></a>
 </p>
 
 <details>
@@ -253,6 +255,41 @@ PR Review Canvas es un kit completo y con opinión que cubre todo el ciclo de vi
 </details>
 
   </td>
+  </tr>
+</table>
+
+<br />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
+
+<br />
+
+## 📝 Actividad reciente
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+
+**📚 Artículos en dev.to**
+
+- [Freemium vs. pago único vs. suscripción: cómo elegí el modelo de precios para mi extensión de Chrome](https://dev.to/projekta2/freemium-vs-one-time-vs-subscription-how-i-chose-the-pricing-model-for-my-chrome-extension-4jan) *(en inglés)*
+- [Migrando una extensión de Chrome de MV2 a MV3: qué se rompió, cómo lo arreglé y qué haría diferente](https://dev.to/projekta2/migrating-a-chrome-extension-from-mv2-to-mv3-what-broke-how-i-fixed-it-and-what-id-do-c1e) *(en inglés)*
+- [Diseñando herramientas para desarrolladores que los desarrolladores realmente usan — 5 principios de UX que aprendí construyendo extensiones de Chrome](https://dev.to/projekta2/designing-developer-tools-that-developers-actually-use-5-ux-principles-i-learned-building-chrome-3lla) *(en inglés)*
+- [PR Review Canvas — un checklist interactivo gratuito para mejores revisiones de código](https://dev.to/projekta2/the-pr-review-canvas-a-free-interactive-checklist-for-better-code-reviews-5dgi) *(en inglés)*
+- [Estaba pasando 2 horas al día clasificando PRs de GitHub — así que construí una extensión de IA para solucionarlo](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm) *(en inglés)*
+- [Por qué mi extensión de Chrome usa una puntuación de riesgo híbrida en lugar de clasificación por IA pura](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) *(en inglés)*
+- [Construí una bandeja de entrada de prioridad IA para pull requests de GitHub — y opté por BYOK en lugar de un backend propio](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) *(en inglés)*
+
+</td>
+    <td width="50%" valign="top">
+
+**🛠️ Contribuciones open source**
+
+- [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) — 9 issues abiertos, issues "good first issue" disponibles
+- [Build Logs](https://github.com/projekta2/build-logs) — decisiones de ingeniería de productos indie
+- [Review Swap](https://github.com/projekta2/build-logs/issues/1) — intercambio mensual de revisiones de PR
+
+</td>
   </tr>
 </table>
 
@@ -316,7 +353,7 @@ Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscri
     </td>
     <td width="80%" valign="middle">
       <p><strong>Alexandre Iglesias</strong><br />
-      <em>Diseñador Visual · Desarrollador de Extensiones Chrome · Girona, España</em></p>
+      <em>Diseñador Visual · Desarrollador de Extensiones Chrome · Mantenedor Open Source · Girona, España</em></p>
       <p>
         <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
         <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
