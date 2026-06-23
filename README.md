@@ -271,14 +271,20 @@ PR Review Canvas is a complete, opinionated kit covering the entire review lifec
     <td width="50%" valign="top">
 
 **📚 Articles on dev.to**
-- [Freemium vs. one-time vs. subscription: how I chose the pricing model for my Chrome extension](https://dev.to/...)
-- [Migrating a Chrome extension from MV2 to MV3: what broke, how I fixed it, and what I'd do differently](https://dev.to/...)
-- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/...)
+
+- [Freemium vs. one-time vs. subscription: how I chose the pricing model for my Chrome extension](https://dev.to/projekta2/freemium-vs-one-time-vs-subscription-how-i-chose-the-pricing-model-for-my-chrome-extension-4jan)
+- [Migrating a Chrome extension from MV2 to MV3: what broke, how I fixed it, and what I'd do differently](https://dev.to/projekta2/migrating-a-chrome-extension-from-mv2-to-mv3-what-broke-how-i-fixed-it-and-what-id-do-c1e)
+- [Designing developer tools that developers actually use — 5 UX principles I learned building Chrome extensions](https://dev.to/projekta2/designing-developer-tools-that-developers-actually-use-5-ux-principles-i-learned-building-chrome-3lla)
+- [The PR Review Canvas — a free interactive checklist for better code reviews](https://dev.to/projekta2/the-pr-review-canvas-a-free-interactive-checklist-for-better-code-reviews-5dgi)
+- [I was spending 2 hours a day triaging GitHub PRs — so I built an AI extension to fix it](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm)
+- [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo)
+- [I built an AI priority inbox for GitHub pull requests — and went BYOK instead of running my own AI backend](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij)
 
 </td>
     <td width="50%" valign="top">
 
 **🛠️ Open source contributions**
+
 - [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) — 9 open issues, good first issues available
 - [Build Logs](https://github.com/projekta2/build-logs) — engineering decisions from indie products
 - [Review Swap](https://github.com/projekta2/build-logs/issues/1) — monthly PR review exchange
