@@ -1,372 +1,206 @@
-<!-- ─────────────────────────────────────────────────────────────────────────
-     VISUAL ENHANCEMENT LAYER
-     CSS below is active in GitLab · Gitea · GitHub Enterprise.
-     github.com sanitizes <style> tags — every animation has an
-     image-based fallback so the README looks great regardless.
-     ───────────────────────────────────────────────────────────────────────── -->
-
-<!-- Nota: GitHub no permite <style>, por eso se ha eliminado.
-     Los efectos visuales se mantienen mediante imágenes y servicios externos. -->
+<p align="center">
+  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧_ENGLISH-ver_versión_EN-14588e?style=flat-square" /></a>
+  &nbsp;
+  <a href="README.es.md"><img src="https://img.shields.io/badge/🇪🇸_ESPAÑOL-activo-94b715?style=flat-square" /></a>
+</p>
 
 <p align="center">
-  <a href="README.md"><img src="https://img.shields.io/badge/🇬🇧-ENGLISH-blue?style=for-the-badge&logo=googletranslate&logoColor=white" /></a>
-  <strong> | </strong>
-  <img src="https://img.shields.io/badge/🇪🇸-ESPAÑOL-orange?style=for-the-badge" />
-</p>  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=220&section=header&text=Alexandre%20Iglesias&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Chrome%20Extensions%20%C2%B7%20Dise%C3%B1ador%20Visual%20%C2%B7%20Open%20Source%20%C2%B7%20Girona%2C%20Espa%C3%B1a&descAlignY=58&descSize=14&descColor=c8d3d3" width="100%" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=200&section=header&text=Alexandre%20Iglesias&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Desarrollador%20de%20Extensiones%20Chrome%20%C2%B7%20Dise%C3%B1ador%20Visual%20%C2%B7%20Mantenedor%20Open%20Source%20%C2%B7%20Girona%2C%20Espa%C3%B1a&descAlignY=56&descSize=14&descColor=cccccc" width="100%" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1400&color=94B715&center=true&vCenter=true&width=680&lines=Extensiones+que+respetan+tu+tiempo.;Dise%C3%B1ador+Visual+que+aprendi%C3%B3+a+programar.;BYOK+%E2%80%94+tus+claves%2C+tus+datos%2C+tu+m%C3%A1quina.;Sin+dark+patterns.+Sin+suscripciones.+Sin+trampa." alt="Typing SVG" />
 </p>
 
 <br />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=94B715&center=true&vCenter=true&width=620&lines=Construyendo+extensiones+que+respetan+tu+tiempo.;Dise%C3%B1ador+visual+que+aprendi%C3%B3+a+programar.;Obsesionado+con+el+detalle%2C+UX+biling%C3%BCe%2C+modo+oscuro+bien+hecho." alt="Typing SVG" />
+  <img src="assets/status-bar.svg" alt="projekta2 — 3 extensiones en producción · construyendo en público · Girona ES" width="830" />
 </p>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 <br />
 
-## Quién soy
+## `> whoami`
 
-Soy un Diseñador Visual que pasó al código — no por accidente, sino porque las herramientas que quería aún no existían.
+Soy un Diseñador Visual que cruzó hacia el código — no por accidente, sino porque **las herramientas que necesitaba no existían.**
 
-Pasé años dirigiendo **Projekta2 Creative Studio**, creando experiencias web inmersivas en la intersección del diseño y la ingeniería: de esas en las que no estás seguro si estás mirando un sitio web o una instalación.
+Pasé años al frente de **Projekta2 Creative Studio**, construyendo experiencias web inmersivas en la intersección entre diseño e ingeniería: el tipo donde no estás seguro de si estás viendo una web o una instalación artística.
 
-Esa experiencia da forma a todo lo que publico: obsesión por el detalle, UX bilingüe desde el primer día y modo oscuro que realmente funciona.
+Ese background da forma a todo lo que construyo:
+- **Obsesión por el detalle** — dark mode que funciona de verdad, espaciado que respira, interacciones que se sienten intencionales
+- **Bilingüe desde el día uno** — EN/ES integrado en la arquitectura, no añadido después
+- **Anti dark-patterns** — sin urgencia falsa, sin freemium trampa, sin telemetría
 
-Ahora estoy construyendo **extensiones para Chrome** para freelancers y desarrolladores — y **recursos open‑source** para la comunidad, con todo documentado en público.
+Ahora construyo **Chrome extensions** para freelancers y desarrolladores, y **recursos open-source** para la comunidad.
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
 
 <br />
 
-## 📦 Lo que estoy construyendo
+## `> ls ~/productos`
+
+<p align="center">
+  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm">
+    <img src="assets/card-tabcost.svg" alt="TabCost Pro — rastrea tabs inactivas como coste de oportunidad real" width="400" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe">
+    <img src="assets/card-prfocus.svg" alt="PR Focus Pro — triaje de PRs de GitHub con IA" width="400" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+  <a href="https://projekta2.github.io/chaintrace-landing/">
+    <img src="assets/card-chaintrace.svg" alt="ChainTrace — extrae datos de proveedores a Google Sheets con un click" width="830" />
+  </a>
+</p>
+
+<br />
+
+<p align="center">
+
+**TabCost Pro** &nbsp;→&nbsp;
+[![Instalar gratis](https://img.shields.io/badge/Instalar%20gratis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm)
+[![Comprar Pro $5](https://img.shields.io/badge/Comprar%20Pro%20%245-94B715?style=flat-square)](https://projekta2.gumroad.com/l/tabcost-pro)
+[![Landing](https://img.shields.io/badge/Landing-14588e?style=flat-square)](https://projekta2.github.io/tabcost-landing/)
+&nbsp;&nbsp;&nbsp;**PR Focus Pro** &nbsp;→&nbsp;
+[![Instalar gratis](https://img.shields.io/badge/Instalar%20gratis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe)
+[![Comprar Pro $9.50](https://img.shields.io/badge/Comprar%20Pro%20%249.50-94B715?style=flat-square)](https://projekta2.gumroad.com/l/PRFocusAIPro)
+[![Demo en vivo](https://img.shields.io/badge/Demo%20en%20vivo-f97316?style=flat-square)](https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html)
+
+**ChainTrace** &nbsp;→&nbsp;
+[![Instalar gratis](https://img.shields.io/badge/Instalar%20gratis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/chaintrace/[YOUR-CWS-ID])
+[![Comprar Premium $49](https://img.shields.io/badge/Comprar%20Premium%20%2449-94B715?style=flat-square)](https://gumroad.com/l/chaintrace-premium)
+[![Landing](https://img.shields.io/badge/Landing-14588e?style=flat-square)](https://projekta2.github.io/chaintrace-landing/)
+
+</p>
+
+<br />
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+<br />
+
+## `> cat ~/open-source`
+
+<p align="center">
+  <img src="assets/opensource-panel.svg" alt="PR Review Canvas y Build Logs — proyectos open source" width="830" />
+</p>
+
+<br />
+
+<p align="center">
+
+**PR Review Canvas** &nbsp;→&nbsp;
+[![Probar en vivo](https://img.shields.io/badge/Probar%20en%20vivo-94B715?style=flat-square)](https://projekta2.github.io/pr-review-canvas/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/projekta2/pr-review-canvas)
+[![Estrellas](https://img.shields.io/github/stars/projekta2/pr-review-canvas?style=flat-square&color=94B715)](https://github.com/projekta2/pr-review-canvas)
+[![Help Wanted](https://img.shields.io/github/issues/projekta2/pr-review-canvas/help%20wanted?style=flat-square&color=f97316&label=ayuda%20bienvenida)](https://github.com/projekta2/pr-review-canvas/issues?q=is%3Aopen+label%3A%22help+wanted%22)
+&nbsp;&nbsp;&nbsp;**Build Logs** &nbsp;→&nbsp;
+[![Ver Logs](https://img.shields.io/badge/Ver%20Logs-14588e?style=flat-square)](https://github.com/projekta2/build-logs)
+[![Review Swap](https://img.shields.io/badge/Unirse%20al%20Review%20Swap-f97316?style=flat-square)](https://github.com/projekta2/build-logs/issues/1)
+
+</p>
+
+<br />
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+<br />
+
+## `> cat ~/artículos`
+
+> Artículos en [dev.to/projekta2](https://dev.to/projekta2) — decisiones reales de productos reales en producción.
+
+| | Artículo | Tags |
+|--|---------|------|
+| 📊 | [Por qué mi Chrome extension usa un scoring de riesgo híbrido en vez de IA pura](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) | `#ia` `#arquitectura` |
+| 🔑 | [Construí un inbox de prioridad IA para PRs de GitHub — y elegí BYOK en vez de backend propio](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) | `#showdev` `#privacidad` |
+| ⏱ | [Tardaba 2 horas al día en revisar PRs de GitHub — así que construí una extensión IA para solucionarlo](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm) | `#productividad` |
+| 🎨 | [El PR Review Canvas — un checklist interactivo gratis para mejores code reviews](https://dev.to/projekta2/the-pr-review-canvas-a-free-interactive-checklist-for-better-code-reviews-5dgi) | `#opensource` |
+| 🧭 | [Diseñando dev tools que los desarrolladores realmente usan — 5 principios UX](https://dev.to/projekta2/designing-developer-tools-that-developers-actually-use-5-ux-principles-i-learned-building-chrome-3lla) | `#ux` `#diseño` |
+| 🔄 | [Migrar una Chrome extension de MV2 a MV3: qué rompió y cómo lo arreglé](https://dev.to/projekta2/migrating-a-chrome-extension-from-mv2-to-mv3-what-broke-how-i-fixed-it-and-what-id-do-c1e) | `#mv3` |
+| 💳 | [Freemium vs. pago único vs. suscripción: cómo elegí el modelo de pricing](https://dev.to/projekta2/freemium-vs-one-time-vs-subscription-how-i-chose-the-pricing-model-for-my-chrome-extension-4jan) | `#indiehacker` |
+
+<br />
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+<br />
+
+## `> cat ~/filosofía`
+
+<p align="center">
+  <img src="assets/quote.svg" alt="La mayoría de herramientas están construidas para impresionar en una demo. Yo construyo para la tercera semana de uso." width="830" />
+</p>
+
+<br />
+
+**Lo que eso significa en la práctica:**
+
+- 💳 **Pagos únicos** — pagas una vez, es tuyo para siempre. Sin suscripciones para funciones que no deberían ser recurrentes.
+- 🔑 **BYOK (Trae Tu Propia Clave)** — tus API keys se quedan en tu máquina. Sin proxy en backend, sin recogida de datos.
+- 🌗 **Dark mode de verdad** — no es un afterthought. Todas las extensiones salen con dark mode real desde la v1.
+- 🌍 **Bilingüe desde el día uno** — EN/ES integrado en la arquitectura i18n, no traducido después.
+- 🚫 **Sin telemetría** — ninguna. Ni siquiera error reporting a menos que hagas opt-in.
+
+<br />
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+<br />
+
+## `> lspci | grep stack`
+
+<p align="center">
+  <img src="assets/stack-bar.svg" alt="Stack: JS, HTML5, CSS3, Chrome MV3, GraphQL, Figma, After Effects, Chart.js, Gumroad, Sheets API, IndexedDB" width="830" />
+</p>
+
+<br />
+
+<p align="center"><img src="assets/divider.svg" width="100%" /></p>
+
+<br />
+
+## `> ssh contratar@projekta2.com`
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-
-### ◆ TabCost Pro
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Precio-%245%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
-
-> *Cada minuto que una pestaña está inactiva, tu tiempo se escapa silenciosamente. TabCost hace visible el coste.*
-
-Trabajas con una tarifa por hora. Tus pestañas abiertas, no. TabCost Pro rastrea las pestañas inactivas del navegador y convierte el tiempo muerto en un coste de oportunidad real — para que finalmente cierres las 23 pestañas que tienes abiertas desde el martes.
-
-**Diseñado para:** freelancers, consultores, cualquiera que facture por horas.
-
-**Lo que hace:**
-
-▹ Seguimiento de costes en tiempo real por pestaña, basado en tu tarifa por hora  
-▹ Cierre automático de pestañas inactivas (umbral configurable)  
-▹ Exportación a CSV para facturación o auditorías de tiempo  
-▹ Temas oscuro / claro · Bilingüe EN/ES  
-▹ Pago único, sin suscripción  
-
-<p>
-  <a href="https://chromewebstore.google.com/detail/tabcost-pro/oifegknejkfiibmfapdfcgemclgmmghm"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://projekta2.gumroad.com/l/tabcost-pro"><img src="https://img.shields.io/badge/Comprar%20Pro%20%E2%80%94%20%245-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/tabcost-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><code>Tech stack</code></summary>
-<br />
-<code>Manifest V3</code> · <code>Chrome Storage API</code> · <code>Chart.js</code> · <code>i18n</code> · <code>Licenciamiento Gumroad</code>
-</details>
-
-  </td>
-    <td width="50%" valign="top">
-
-### ◇ PR Focus Pro
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Pro%20%E2%80%94%20%249.50%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
-  <img src="https://img.shields.io/badge/Freemium-disponible-blue?style=flat-square" />
-</p>
-
-> *Tu bandeja de entrada de PRs de GitHub es un caos. PR Focus Pro aporta claridad impulsada por IA al caos.*
-
-PR Focus Pro se sitúa sobre GitHub y utiliza IA para resumir, puntuar y priorizar tus pull requests — para que revises lo que importa primero, no lo que llegó primero.
-
-**Diseñado para:** desarrolladores que gestionan múltiples repositorios o flujos de trabajo con varias cuentas de GitHub.
-
-**Lo que hace:**
-
-▹ Resúmenes IA + puntuación de riesgo (0–100) por PR  
-▹ Cola de prioridad híbrida: estado del CI + antigüedad + riesgo IA  
-▹ Generación de borradores de revisión con un clic  
-▹ Soporte para múltiples cuentas de GitHub  
-▹ 100% local (trae tu propia clave) — OpenAI, Groq, Mistral, Ollama  
-▹ Freemium: núcleo gratuito / Pro $9.50 pago único  
-
-<p>
-  <a href="https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://projekta2.gumroad.com/l/PRFocusAIPro"><img src="https://img.shields.io/badge/Comprar%20Pro%20%E2%80%94%20%249.50-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
-  <a href="https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html"><img src="https://img.shields.io/badge/Demo%20en%20vivo-94B715?style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><code>Tech stack</code></summary>
-<br />
-<code>GraphQL + REST</code> · <code>IndexedDB</code> · <code>Ingeniería de prompts IA</code> · <code>Validación de licencias Gumroad</code>
-</details>
-
-  </td>
-  </tr>
-</table>
-
-<!-- ChainTrace (ancho completo) -->
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="100%" valign="top">
-
-### ⛓️ ChainTrace
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Precio-%2449%20pago%20único%2C%20sin%20suscripción-94B715?style=flat-square" />
-  <img src="https://img.shields.io/badge/Freemium-disponible-blue?style=flat-square" />
-  <img src="https://img.shields.io/badge/Chrome%20Web%20Store-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-</p>
-
-> *Deja de copiar y pegar desde los portales de proveedores. Extrae tablas, tarjetas y cuadrículas a Google Sheets en un solo clic.*
-
-ChainTrace es la única extensión de Chrome construida específicamente para profesionales de la cadena de suministro que necesitan extraer datos de productos de Alibaba, Amazon Business, SAP Ariba, Shopify o ERPs internos — y enviarlos directamente a Google Sheets, Excel, CSV o tu propia API.
-
-**Diseñado para:** responsables de compras, analistas de supply chain, operadores de e‑commerce, equipos de logística.
-
-**Lo que hace:**
-
-▹ Detecta automáticamente tablas, tarjetas de productos, cuadrículas e iframes – funciona en el 99% de los portales  
-▹ Exportación con un clic a Google Sheets (sobrescribir o añadir) + XLSX/CSV real  
-▹ Reglas de validación: no vacío, numérico, mayor que, expresiones regulares, transformaciones (mayúsculas/recortar)  
-▹ Recetas: reglas de validación por sitio guardadas para reaplicación automática  
-▹ Paginación multi‑página: hace clic automáticamente en “Siguiente” hasta 20 páginas  
-▹ Exportación vía API REST con cabeceras personalizadas – envía datos directamente a tu ERP  
-▹ 100% local: cero recopilación de datos, cero telemetría, tus datos nunca salen de tu navegador  
-▹ Freemium: nivel gratuito (50 capturas/mes, 500 filas) / Premium $49 vitalicio (ilimitado)  
-
-<p>
-  <a href="#"><img src="https://img.shields.io/badge/Coming_Soon-94B715?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Comprar%20Premium%20%E2%80%94%20%2449-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
-  <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
-  <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Demo%20en%20vivo-94B715?style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><code>Tech stack</code></summary>
-<br />
-<code>Manifest V3</code> · <code>Extracción del DOM</code> · <code>Google Sheets API (OAuth2)</code> · <code>XLSX (OOXML) + ZIP</code> · <code>Licenciamiento Gumroad</code> · <code>Chrome Storage API</code>
-</details>
-
-  </td>
-  </tr>
-</table>
-
-<!-- Nueva fila para Build Logs + PR Review Canvas -->
-<br />
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-### 📓 Build Logs
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-Diario%20de%20Ingeniería-94B715?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código%20Abierto-0a0c10?style=flat-square" />
-</p>
-
-> *Decisiones de ingeniería reales de productos indie en producción. Sin teoría — solo decisiones que se publicaron.*
-
-Build Logs es un registro público de cada decisión significativa tomada mientras construía TabCost, PR Focus y ChainTrace. Cada entrada desglosa una decisión concreta: qué se eligió, qué costó y si lo volvería a hacer. Sin relleno, sin "10 consejos" — solo decisiones reales.
-
-**Incluye:**
-
-▹ Puntuación de riesgo híbrida (IA + determinista)  
-▹ Arquitectura BYOK frente a backend alojado  
-▹ Desafíos de migración a MV3  
-▹ Licenciamiento Gumroad sin backend  
-▹ Ingeniería de prompts para resultados consistentes de IA  
-
-<p>
-  <a href="https://github.com/projekta2/build-logs"><img src="https://img.shields.io/badge/Ver%20Logs-14588e?style=for-the-badge" /></a>
-  <a href="https://github.com/projekta2/build-logs/issues/1"><img src="https://img.shields.io/badge/Unirse%20al%20Review%20Swap-94B715?style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><code>Tech stack</code></summary>
-<br />
-<code>Markdown</code> · <code>GitHub Issues</code> · <code>GitHub Actions</code> · <code>Impulsado por la comunidad</code>
-</details>
-
-  </td>
-  <td width="50%" valign="top">
-
-### 🧠 PR Review Canvas
-
-<p>
-  <img src="https://img.shields.io/badge/Estado-Activo-brightgreen?style=flat-square" />
-  <img src="https://img.shields.io/badge/Tipo-Recurso%20Gratuito-94B715?style=flat-square" />
-  <img src="https://img.shields.io/badge/Código%20Abierto-0a0c10?style=flat-square" />
-  <img src="https://img.shields.io/badge/🆕-Último%20lanzamiento-94B715?style=flat-square&color=f97316" />
-</p>
-
-> *Un kit de supervivencia gratuito y abierto para revisiones de código — listas de verificación, plantillas, guías y un rastreador interactivo en vivo para cualquiera que revise pull requests.*
-
-PR Review Canvas es un kit completo y con opinión que cubre todo el ciclo de vida de la revisión: desde redactar descripciones de PR, hasta revisar línea por línea, pasando por dar feedback que no provoque una discusión en los comentarios.
-
-**Incluye:**
-
-▹ Lista de verificación interactiva de 51 ítems (con puntuación de "Preparación para la Revisión")  
-▹ Plantillas de PR (básica y avanzada)  
-▹ Guías para principiantes, expertos, dar y recibir feedback  
-▹ Ejemplos anotados de PR bueno y malo  
-▹ Referencia de anti‑patrones en revisiones de código  
-▹ Plantillas para importar a Notion y Obsidian  
-
-<p>
-  <a href="https://projekta2.github.io/pr-review-canvas/"><img src="https://img.shields.io/badge/Probar%20en%20vivo-94B715?style=for-the-badge" /></a>
-  <a href="https://github.com/projekta2/pr-review-canvas"><img src="https://img.shields.io/badge/Ver%20Repositorio-14588e?style=for-the-badge" /></a>
-  <a href="https://github.com/projekta2/pr-review-canvas/issues"><img src="https://img.shields.io/badge/Se%20necesita%20ayuda%20(9%20issues)-f97316?style=for-the-badge" /></a>
-</p>
-
-<details>
-<summary><code>Tech stack</code></summary>
-<br />
-<code>HTML · CSS · JavaScript</code> · <code>GitHub Pages</code> · <code>Impulsado por la comunidad</code>
-</details>
-
-  </td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
-
-<br />
-
-## 📝 Actividad reciente
-
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-
-**📚 Artículos en dev.to**
-
-- [Freemium vs. pago único vs. suscripción: cómo elegí el modelo de precios para mi extensión de Chrome](https://dev.to/projekta2/freemium-vs-one-time-vs-subscription-how-i-chose-the-pricing-model-for-my-chrome-extension-4jan) *(en inglés)*
-- [Migrando una extensión de Chrome de MV2 a MV3: qué se rompió, cómo lo arreglé y qué haría diferente](https://dev.to/projekta2/migrating-a-chrome-extension-from-mv2-to-mv3-what-broke-how-i-fixed-it-and-what-id-do-c1e) *(en inglés)*
-- [Diseñando herramientas para desarrolladores que los desarrolladores realmente usan — 5 principios de UX que aprendí construyendo extensiones de Chrome](https://dev.to/projekta2/designing-developer-tools-that-developers-actually-use-5-ux-principles-i-learned-building-chrome-3lla) *(en inglés)*
-- [PR Review Canvas — un checklist interactivo gratuito para mejores revisiones de código](https://dev.to/projekta2/the-pr-review-canvas-a-free-interactive-checklist-for-better-code-reviews-5dgi) *(en inglés)*
-- [Estaba pasando 2 horas al día clasificando PRs de GitHub — así que construí una extensión de IA para solucionarlo](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm) *(en inglés)*
-- [Por qué mi extensión de Chrome usa una puntuación de riesgo híbrida en lugar de clasificación por IA pura](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) *(en inglés)*
-- [Construí una bandeja de entrada de prioridad IA para pull requests de GitHub — y opté por BYOK en lugar de un backend propio](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) *(en inglés)*
-
-</td>
-    <td width="50%" valign="top">
-
-**🛠️ Contribuciones open source**
-
-- [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) — 9 issues abiertos, issues "good first issue" disponibles
-- [Build Logs](https://github.com/projekta2/build-logs) — decisiones de ingeniería de productos indie
-- [Review Swap](https://github.com/projekta2/build-logs/issues/1) — intercambio mensual de revisiones de PR
-
-</td>
-  </tr>
-</table>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
-
-<br />
-
-## En lo que creo sobre el software
-
-La mayoría de las herramientas están construidas para impresionar en una demo. Yo construyo para la tercera semana de uso — cuando la novedad ha desaparecido y todo lo que queda es si realmente te ahorra tiempo.
-
-Eso significa: nada de patrones oscuros, ni falsa urgencia, ni trampas de suscripción para funciones que deberían ser de pago único. Solo herramientas que hacen bien una cosa, con cuidado por la persona que las usa.
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
-
-<br />
-
-## Stack
-
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Extensiones%20Chrome%20MV3-4285F4?style=flat-square&logo=googlechrome&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/After%20Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-</p>
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
-
-<br />
-
-## Si eres un cliente potencial o empleador
-
-**Clientes:** Las tres extensiones están en funcionamiento y disponibles para instalar o comprar hoy. La mejor manera de evaluar mi trabajo es usarlas. Si tienes un caso de uso específico o quieres que desarrolle una extensión a medida, contacta conmigo.
-
-**Empleadores / freelance:** Aporto una combinación inusual — diseño visual de nivel de producción y conocimiento práctico de las APIs de Chrome Extensions, integración de IA y JavaScript desde cero. Me importa profundamente la UX que no necesita un tutorial.
-
-**Comunidad open‑source:** También mantengo dos recursos públicos — [Build Logs](https://github.com/projekta2/build-logs) (decisiones de ingeniería) y [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) (kit de revisión de código). Ambos están abiertos a contribuciones y comentarios.
-
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:14588e,100:94b715&height=3&reversal=false" width="100%" />
-
-<br />
-
-## Hablemos
-
-<table width="100%">
-  <tr>
-    <td width="20%" valign="middle" align="center">
-      <img src="assets/images/profile.jpg" alt="Alexandre Iglesias" width="140" style="border-radius: 50%; border: 3px solid #94b715; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" />
+    <td width="22%" valign="middle" align="center">
+      <img src="assets/images/profile.jpg" alt="Alexandre Iglesias" width="130" style="border-radius:50%" />
     </td>
-    <td width="80%" valign="middle">
-      <p><strong>Alexandre Iglesias</strong><br />
-      <em>Diseñador Visual · Desarrollador de Extensiones Chrome · Mantenedor Open Source · Girona, España</em></p>
-      <p>
-        <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-        <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-        <a href="https://github.com/projekta2"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-      </p>
-    </td>
+    <td width="78%" valign="middle">
+
+**Clientes** — Las tres extensiones están en producción. La mejor forma de evaluar mi trabajo es usarlas. Desarrollo de Chrome extensions custom disponible bajo petición.
+
+**Empleadores / freelance** — Combinación inusual: diseño visual a nivel de producción + conocimiento real de Chrome Extension APIs, integración de IA, extracción de DOM y JS desde cero. Me importa la UX que no necesita tutorial.
+
+**Comunidad open-source** — Dos recursos públicos mantenidos: [PR Review Canvas](https://github.com/projekta2/pr-review-canvas) (kit de code review, MIT) y [Build Logs](https://github.com/projekta2/build-logs) (decisiones de ingeniería). Ambos abiertos a contribuciones.
+
+<p>
+  <a href="mailto:hello@projekta2.com"><img src="https://img.shields.io/badge/hello@projekta2.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/alexiglesias1"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://dev.to/projekta2"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" /></a>
+</p>
+
+  </td>
   </tr>
 </table>
-
-<p><sub><i>Construyendo en público · Girona, España · Siempre abierto a problemas interesantes.</i></sub></p>
 
 <br />
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14588e,40:354650,100:94b715&height=100&section=footer" width="100%" />
+  <sub><i>Construyendo en público · Girona, España · Mayo 2026 → </i></sub>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:94b715,60:354650,100:14588e&height=110&section=footer" width="100%" />
 </p>
