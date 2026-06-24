@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="180" viewBox="0 0 400 180">
+  <!-- Card background -->
+  <rect width="400" height="180" rx="12" fill="#0d1117"/>
+  <rect width="400" height="180" rx="12" fill="none" stroke="#14588e" stroke-width="1.5" opacity="0.6"/>
+  <!-- Top accent line -->
+  <rect width="400" height="3" rx="2" fill="url(#tc-grad)"/>
+  <defs>
+    <linearGradient id="tc-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#14588e"/>
+      <stop offset="100%" style="stop-color:#94b715"/>
+    </linearGradient>
+  </defs>
+  <!-- Icon -->
+  <text x="20" y="42" font-size="24">⏱</text>
+  <!-- Name -->
+  <text x="56" y="38" font-family="'Courier New',Courier,monospace" font-size="16" font-weight="700" fill="#f5f5f0">TabCost Pro</text>
+  <!-- Price badge -->
+  <rect x="56" y="44" width="76" height="18" rx="4" fill="#94b715" opacity="0.15"/>
+  <text x="62" y="57" font-family="'Courier New',Courier,monospace" font-size="11" fill="#94b715">$5 one-time</text>
+  <!-- Description -->
+  <text x="20" y="88" font-family="-apple-system,sans-serif" font-size="12" fill="#8b949e">Every idle tab is bleeding your hourly rate.</text>
+  <text x="20" y="104" font-family="-apple-system,sans-serif" font-size="12" fill="#8b949e">TabCost makes the cost impossible to ignore.</text>
+  <!-- Features list -->
+  <text x="20" y="128" font-family="'Courier New',Courier,monospace" font-size="11" fill="#94b715">▸</text>
+  <text x="34" y="128" font-family="-apple-system,sans-serif" font-size="11" fill="#6b7280">Real-time cost tracker per tab</text>
+  <text x="20" y="146" font-family="'Courier New',Courier,monospace" font-size="11" fill="#94b715">▸</text>
+  <text x="34" y="146" font-family="-apple-system,sans-serif" font-size="11" fill="#6b7280">Auto-close idle tabs · CSV export · EN/ES</text>
+  <!-- Target -->
+  <text x="20" y="168" font-family="-apple-system,sans-serif" font-size="10" fill="#354650" font-style="italic">Built for freelancers billing by the hour</text>
+</svg>

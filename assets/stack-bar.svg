@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="42" viewBox="0 0 830 42">
+  <rect width="830" height="42" rx="8" fill="#0a0c10"/>
+  <!-- Stack items as styled pills -->
+  <!-- JS -->
+  <rect x="12" y="9" width="36" height="24" rx="5" fill="#F7DF1E" opacity="0.15"/>
+  <text x="20" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#F7DF1E">JS</text>
+  <!-- HTML5 -->
+  <rect x="56" y="9" width="52" height="24" rx="5" fill="#E34F26" opacity="0.15"/>
+  <text x="62" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#E34F26">HTML5</text>
+  <!-- CSS3 -->
+  <rect x="116" y="9" width="46" height="24" rx="5" fill="#1572B6" opacity="0.15"/>
+  <text x="122" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#1572B6">CSS3</text>
+  <!-- MV3 -->
+  <rect x="170" y="9" width="76" height="24" rx="5" fill="#4285F4" opacity="0.15"/>
+  <text x="176" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#4285F4">Chrome MV3</text>
+  <!-- GraphQL -->
+  <rect x="254" y="9" width="68" height="24" rx="5" fill="#E10098" opacity="0.15"/>
+  <text x="260" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#E10098">GraphQL</text>
+  <!-- Figma -->
+  <rect x="330" y="9" width="50" height="24" rx="5" fill="#F24E1E" opacity="0.15"/>
+  <text x="336" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#F24E1E">Figma</text>
+  <!-- AE -->
+  <rect x="388" y="9" width="92" height="24" rx="5" fill="#9999FF" opacity="0.15"/>
+  <text x="394" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#9999FF">After Effects</text>
+  <!-- Chart.js -->
+  <rect x="488" y="9" width="60" height="24" rx="5" fill="#FF6384" opacity="0.15"/>
+  <text x="494" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#FF6384">Chart.js</text>
+  <!-- Gumroad -->
+  <rect x="556" y="9" width="66" height="24" rx="5" fill="#FF90E8" opacity="0.15"/>
+  <text x="562" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#FF90E8">Gumroad</text>
+  <!-- Sheets API -->
+  <rect x="630" y="9" width="88" height="24" rx="5" fill="#34A853" opacity="0.15"/>
+  <text x="636" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#34A853">Sheets API</text>
+  <!-- IndexedDB -->
+  <rect x="726" y="9" width="90" height="24" rx="5" fill="#354650" opacity="0.3"/>
+  <text x="732" y="26" font-family="'Courier New',Courier,monospace" font-size="11" fill="#8b949e">IndexedDB</text>
+</svg>
