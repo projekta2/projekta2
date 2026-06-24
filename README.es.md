@@ -163,7 +163,7 @@ ChainTrace es la única extensión de Chrome construida específicamente para pr
 ▹ Freemium: nivel gratuito (50 capturas/mes, 500 filas) / Premium $49 vitalicio (ilimitado)  
 
 <p>
-  <a href="https://chromewebstore.google.com/detail/chaintrace/xxxxx"><img src="https://img.shields.io/badge/Instalar%20Gratis-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Coming_Soon-94B715?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   <a href="https://gumroad.com/l/chaintrace-premium"><img src="https://img.shields.io/badge/Comprar%20Premium%20%E2%80%94%20%2449-94B715?style=for-the-badge&logo=gumroad&logoColor=black" /></a>
   <a href="https://projekta2.github.io/chaintrace-landing/"><img src="https://img.shields.io/badge/Landing%20Page-14588e?style=for-the-badge" /></a>
   <a href="https://projekta2.github.io/chaintrace-landing/#demo"><img src="https://img.shields.io/badge/Demo%20en%20vivo-94B715?style=for-the-badge" /></a>
