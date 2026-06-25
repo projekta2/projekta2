@@ -131,6 +131,7 @@ Now I build **Chrome extensions** for freelancers and developers, and **open-sou
 
 | | Article | Tags |
 |--|---------|------|
+| ⚙️ | [Migrating to Manifest V3: what actually broke, what we saved, and what we gained](https://dev.to/projekta2/migrating-to-manifest-v3-what-actually-broke-what-we-saved-and-what-we-gained-ed1) | `#mv3` `#chrome-extension` `#javascript` |
 | 📊 | [Why my Chrome extension uses a hybrid AI risk score instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) | `#ai` `#chrome-extension` `#architecture` |
 | 🔑 | [I built an AI priority inbox for GitHub PRs — and went BYOK instead of running my own AI](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) | `#showdev` `#privacy` `#ai` |
 | ⏱ | [I was spending 2 hours a day triaging GitHub PRs — so I built an AI extension to fix it](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm) | `#productivity` `#github` |
