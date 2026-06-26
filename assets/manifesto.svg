@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="110" viewBox="0 0 830 110">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0a0c10"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <rect width="830" height="110" rx="12" fill="url(#bg)"/>
+  <!-- Left accent bar gradient -->
+  <defs>
+    <linearGradient id="bar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#14588e"/>
+      <stop offset="50%" style="stop-color:#94b715"/>
+      <stop offset="100%" style="stop-color:#14588e;stop-opacity:0.3"/>
+    </linearGradient>
+  </defs>
+  <rect x="0" y="0" width="5" height="110" rx="2" fill="url(#bar)"/>
+  <!-- Opening quote decorative -->
+  <text x="22" y="58" font-family="Georgia,'Times New Roman',serif" font-size="72" fill="#14588e" opacity="0.2" font-weight="700">"</text>
+  <!-- Line 1 -->
+  <text x="62" y="38" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#8b949e" font-style="italic">Most tools are built to impress on a demo.</text>
+  <!-- Line 2 — key phrase highlighted -->
+  <text x="62" y="62" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#8b949e" font-style="italic">I build for the </text>
+  <text x="193" y="62" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#f5f5f0" font-style="italic" font-weight="700">third week of use</text>
+  <text x="361" y="62" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#8b949e" font-style="italic"> — when the novelty is gone</text>
+  <!-- Line 3 -->
+  <text x="62" y="86" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#8b949e" font-style="italic">and all that's left is whether it actually </text>
+  <text x="456" y="86" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#94b715" font-style="italic" font-weight="700">saves you time</text>
+  <text x="587" y="86" font-family="Georgia,'Times New Roman',serif" font-size="16" fill="#8b949e" font-style="italic">.</text>
+</svg>

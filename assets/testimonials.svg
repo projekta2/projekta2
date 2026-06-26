@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="830" height="130" viewBox="0 0 830 130">
+  <!-- Left testimonial card -->
+  <rect x="0" y="0" width="400" height="130" rx="12" fill="#0d1117"/>
+  <rect x="0" y="0" width="400" height="130" rx="12" fill="none" stroke="#1e2a30" stroke-width="1"/>
+  <!-- Quote mark -->
+  <text x="16" y="44" font-family="Georgia,serif" font-size="36" fill="#14588e" opacity="0.4">"</text>
+  <!-- Placeholder text -->
+  <text x="16" y="66" font-family="Georgia,serif" font-size="12" fill="#6b7280" font-style="italic">First real user testimonial will live here.</text>
+  <text x="16" y="84" font-family="Georgia,serif" font-size="12" fill="#6b7280" font-style="italic">Using PR Focus Pro since day one.</text>
+  <!-- Avatar placeholder -->
+  <circle cx="34" cy="112" r="12" fill="#1e2a30"/>
+  <text x="34" y="116" font-family="'Courier New',Courier,monospace" font-size="10" fill="#354650" text-anchor="middle">?</text>
+  <text x="54" y="109" font-family="-apple-system,Helvetica,sans-serif" font-size="11" fill="#354650">Early adopter</text>
+  <text x="54" y="122" font-family="'Courier New',Courier,monospace" font-size="10" fill="#1e2a30">→ reach out if you want to share yours</text>
+
+  <!-- Right testimonial card -->
+  <rect x="430" y="0" width="400" height="130" rx="12" fill="#0d1117"/>
+  <rect x="430" y="0" width="400" height="130" rx="12" fill="none" stroke="#1e2a30" stroke-width="1"/>
+  <text x="446" y="44" font-family="Georgia,serif" font-size="36" fill="#94b715" opacity="0.4">"</text>
+  <text x="446" y="66" font-family="Georgia,serif" font-size="12" fill="#6b7280" font-style="italic">Second testimonial will live here.</text>
+  <text x="446" y="84" font-family="Georgia,serif" font-size="12" fill="#6b7280" font-style="italic">PR Review Canvas saved our team hours.</text>
+  <circle cx="464" cy="112" r="12" fill="#1e2a30"/>
+  <text x="464" y="116" font-family="'Courier New',Courier,monospace" font-size="10" fill="#354650" text-anchor="middle">?</text>
+  <text x="484" y="109" font-family="-apple-system,Helvetica,sans-serif" font-size="11" fill="#354650">Open source contributor</text>
+  <text x="484" y="122" font-family="'Courier New',Courier,monospace" font-size="10" fill="#1e2a30">→ hello@projekta2.com</text>
+</svg>
