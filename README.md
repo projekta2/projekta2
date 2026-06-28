@@ -160,7 +160,7 @@ I spent years running **Projekta2 Creative Studio** — immersive web experience
 
 **📋 Build Logs** — real engineering decisions from indie products &nbsp;
 [![Browse logs](https://img.shields.io/badge/Browse_Logs-14588e?style=flat-square)](https://github.com/projekta2/build-logs)
-[![Join Review Swap](https://img.shields.io/badge/🔄_Join_Review_Swap_(June_2026)-f97316?style=flat-square)](https://github.com/projekta2/build-logs/issues/1)
+[![Join Review Swap](https://img.shields.io/badge/🔄_Join_Review_Swap_(Summer_2026)-f97316?style=flat-square)](https://github.com/projekta2/build-logs/issues/1)
 
 </p>
 
@@ -196,6 +196,7 @@ MIT licensed. No account required. No email capture. Just open it and use it.
 
 | | Article | Reads well if you… |
 |--|---------|-------------------|
+| 🏗️ | [**I built an AI Chrome extension with zero backend cost** — exact BYOK architecture](https://dev.to/projekta2/i-built-an-ai-chrome-extension-with-zero-backend-cost-heres-the-exact-architecture-43j7) | …build Chrome extensions and want AI without a backend |
 | 📊 | [**Why my Chrome extension uses a hybrid AI risk score** instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) | …build with AI and care about determinism |
 | 🔑 | [**I went BYOK instead of running my own AI backend** — the architecture decision](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) | …think about privacy-first AI product design |
 | ⏱ | [**I was spending 2 hours a day triaging GitHub PRs** — so I built an AI extension](https://dev.to/projekta2/i-was-spending-2-hours-a-day-triaging-github-prs-so-i-built-an-ai-extension-to-fix-it-10mm) | …manage multiple repos and feel the pain |
