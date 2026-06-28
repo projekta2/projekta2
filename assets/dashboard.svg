@@ -39,7 +39,7 @@
   <line x1="220" y1="14" x2="220" y2="50" stroke="#1e2a30" stroke-width="1"/>
 
   <!-- Stat: Articles -->
-  <text x="238" y="26" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="700" fill="#f5f5f0">7</text>
+  <text x="238" y="26" font-family="'Courier New',Courier,monospace" font-size="18" font-weight="700" fill="#f5f5f0">10</text>
   <text x="238" y="40" font-family="'Courier New',Courier,monospace" font-size="9" fill="#6b7280" letter-spacing="0.5">DEV.TO ARTICLES</text>
 
   <line x1="360" y1="14" x2="360" y2="50" stroke="#1e2a30" stroke-width="1"/>
