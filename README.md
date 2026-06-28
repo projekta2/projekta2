@@ -31,7 +31,7 @@
 
 <!-- LIVE DASHBOARD — 4 real metrics, observability aesthetic -->
 <p align="center">
-  <img src="assets/dashboard.svg" width="830" alt="projekta2 live status — 3 extensions in production · 7 dev.to articles · 2 open source repos · 0 subscriptions sold" />
+  <img src="assets/dashboard.svg" width="830" alt="projekta2 live status — 3 extensions in production · 10 dev.to articles · 2 open source repos · 0 subscriptions sold" />
 </p>
 
 <br />
