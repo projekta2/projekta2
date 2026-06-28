@@ -120,7 +120,7 @@ I spent years running **Projekta2 Creative Studio** — immersive web experience
 &emsp;**PR Focus Pro** &nbsp;
 [![Install free](https://img.shields.io/badge/⬇_Install_Free-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe)
 [![Buy Pro $9.50](https://img.shields.io/badge/Buy_Pro_$9.50-94B715?style=flat-square)](https://projekta2.gumroad.com/l/PRFocusAIPro)
-[![Live demo](https://img.shields.io/badge/Live_Demo-f97316?style=flat-square)](https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html)
+[![Live demo](https://img.shields.io/badge/Live_Demo-f97316?style=flat-square)](https://projekta2.github.io/pr-focus-landing/pr-focus-demo.html)
 
 **ChainTrace** &nbsp;
 [![CWS: coming soon](https://img.shields.io/badge/CWS_coming_soon-555?style=flat-square&logo=googlechrome&logoColor=white)](#)
