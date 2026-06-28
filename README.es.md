@@ -30,7 +30,7 @@
 <br />
 
 <p align="center">
-  <img src="assets/dashboard.svg" width="830" alt="projekta2 estado en vivo — 3 extensiones en producción · 7 artículos dev.to · 2 repos open source · 0 suscripciones vendidas" />
+  <img src="assets/dashboard.svg" width="830" alt="projekta2 estado en vivo — 3 extensiones en producción · 10 artículos dev.to · 2 repos open source · 0 suscripciones vendidas" />
 </p>
 
 <br />
