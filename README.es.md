@@ -115,7 +115,7 @@ Pasé años al frente de **Projekta2 Creative Studio** — experiencias web inme
 &emsp;**PR Focus Pro** &nbsp;
 [![Instalar gratis](https://img.shields.io/badge/⬇_Instalar_gratis-4285F4?style=flat-square&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/pr-focus-ai-pro/ememaiabefeojkccjclglcmbjmdpnaoe)
 [![Comprar Pro $9.50](https://img.shields.io/badge/Comprar_Pro_$9.50-94B715?style=flat-square)](https://projekta2.gumroad.com/l/PRFocusAIPro)
-[![Demo en vivo](https://img.shields.io/badge/Demo_en_vivo-f97316?style=flat-square)](https://projekta2.github.io/projekta2-pr-focus-landing/pr-focus-demo.html)
+[![Demo en vivo](https://img.shields.io/badge/Demo_en_vivo-f97316?style=flat-square)](https://projekta2.github.io/pr-focus-landing/pr-focus-demo.html)
 
 **ChainTrace** &nbsp;
 [![CWS: próximamente](https://img.shields.io/badge/CWS_próximamente-555?style=flat-square&logo=googlechrome&logoColor=white)](#)
@@ -155,7 +155,7 @@ Pasé años al frente de **Projekta2 Creative Studio** — experiencias web inme
 
 **📋 Build Logs** — decisiones reales de ingeniería de productos indie &nbsp;
 [![Ver logs](https://img.shields.io/badge/Ver_Logs-14588e?style=flat-square)](https://github.com/projekta2/build-logs)
-[![Unirse al Review Swap](https://img.shields.io/badge/🔄_Unirse_al_Review_Swap_(Junio_2026)-f97316?style=flat-square)](https://github.com/projekta2/build-logs/issues/1)
+[![Join Review Swap](https://img.shields.io/badge/🔄_Join_Review_Swap_(Summer_2026)-f97316?style=flat-square)](https://github.com/projekta2/build-logs/issues/1)
 
 </p>
 
