@@ -207,6 +207,7 @@ MIT licensed. No account required. No email capture. Just open it and use it.
 
 | | Article | Reads well if you… |
 |--|---------|-------------------|
+| 🟢 | [**Show HN: AI Chrome extension with zero backend cost** — BYOK architecture](https://news.ycombinator.com/item?id=48721781) | ...if you want to see the HN discussion |
 | 🏗️ | [**I built an AI Chrome extension with zero backend cost** — exact BYOK architecture](https://dev.to/projekta2/i-built-an-ai-chrome-extension-with-zero-backend-cost-heres-the-exact-architecture-43j7) | …build Chrome extensions and want AI without a backend |
 | 📊 | [**Why my Chrome extension uses a hybrid AI risk score** instead of pure AI sorting](https://dev.to/projekta2/why-my-chrome-extension-uses-a-hybrid-ai-risk-score-instead-of-pure-ai-sorting-4lfo) | …build with AI and care about determinism |
 | 🔑 | [**I went BYOK instead of running my own AI backend** — the architecture decision](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij) | …think about privacy-first AI product design |
