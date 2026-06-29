@@ -47,6 +47,17 @@
   <a href="https://github.com/sponsors/projekta2"><img src="https://img.shields.io/badge/Sponsor-❤-ea4aaa?style=flat-square&logo=github-sponsors" alt="Sponsor projekta2 on GitHub" /></a>
 </p>
 
+<!-- ADD HN BADGE — after the activity badges row -->
+<p align="center">
+  <a href="https://news.ycombinator.com/user?id=alexiglesias">
+    <img src="https://img.shields.io/badge/Hacker_News-Show_HN-f97316?style=flat-square&logo=ycombinator&logoColor=white" alt="Hacker News Profile" />
+  </a>
+  &nbsp;
+  <a href="https://news.ycombinator.com/item?id=48721781">
+    <img src="https://img.shields.io/badge/Show_HN_Post-Live-94B715?style=flat-square&logo=ycombinator&logoColor=white" alt="Show HN Post" />
+  </a>
+</p>
+
 <br />
 
 <p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
